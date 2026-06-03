@@ -1,0 +1,57 @@
+{
+    "agent_id": 105,
+    "assigned_gender": "M",
+    "total_kids_count": 0,
+    "children_produced_ids": [],
+    "final_status": "Dead",
+    "cause_of_death": "Starvation / Exhaustion",
+    "year_of_death": 5,
+    "final_savings_balance": -9.44,
+    "final_energy_level": 0,
+    "travel_history_log": [
+        "Asia",
+        "Europe"
+    ],
+    "biometric_history_log": [
+        {
+            "year": 1,
+            "age": 21,
+            "location_sector": "Asia",
+            "energy": 90,
+            "savings_bank_balance": 25.56,
+            "social_class": "Poor"
+        },
+        {
+            "year": 2,
+            "age": 22,
+            "location_sector": "Europe",
+            "energy": 52,
+            "savings_bank_balance": 10.56,
+            "social_class": "Middle"
+        },
+        {
+            "year": 3,
+            "age": 23,
+            "location_sector": "Europe",
+            "energy": 52,
+            "savings_bank_balance": 0.56,
+            "social_class": "Middle"
+        },
+        {
+            "year": 4,
+            "age": 24,
+            "location_sector": "Europe",
+            "energy": 4,
+            "savings_bank_balance": -9.44,
+            "social_class": "Middle"
+        }
+    ],
+    "marriage_history": [],
+    "brain_weights": [
+        -0.6094873355850363,
+        -0.5004589567567841,
+        2.771273388762497,
+        -0.3233516562927532,
+        -0.4605311634206972
+    ]
+}

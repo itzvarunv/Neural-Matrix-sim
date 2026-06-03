@@ -1,0 +1,204 @@
+{
+    "agent_id": 172,
+    "assigned_gender": "M",
+    "total_kids_count": 3,
+    "children_produced_ids": [
+        225,
+        231,
+        248
+    ],
+    "final_status": "Alive",
+    "cause_of_death": "N/A",
+    "year_of_death": "N/A",
+    "final_savings_balance": 35.23,
+    "final_energy_level": 60,
+    "travel_history_log": [
+        "Asia"
+    ],
+    "biometric_history_log": [
+        {
+            "year": 9,
+            "age": 1,
+            "location_sector": "Asia",
+            "energy": 90,
+            "savings_bank_balance": 55.23,
+            "social_class": "Middle"
+        },
+        {
+            "year": 10,
+            "age": 2,
+            "location_sector": "Asia",
+            "energy": 90,
+            "savings_bank_balance": 70.23,
+            "social_class": "Middle"
+        },
+        {
+            "year": 11,
+            "age": 3,
+            "location_sector": "Asia",
+            "energy": 90,
+            "savings_bank_balance": 60.23,
+            "social_class": "Middle"
+        },
+        {
+            "year": 12,
+            "age": 4,
+            "location_sector": "Asia",
+            "energy": 90,
+            "savings_bank_balance": 75.23,
+            "social_class": "Middle"
+        },
+        {
+            "year": 13,
+            "age": 5,
+            "location_sector": "Asia",
+            "energy": 90,
+            "savings_bank_balance": 105.23,
+            "social_class": "Middle"
+        },
+        {
+            "year": 14,
+            "age": 6,
+            "location_sector": "Asia",
+            "energy": 90,
+            "savings_bank_balance": 135.23,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 15,
+            "age": 7,
+            "location_sector": "Asia",
+            "energy": 90,
+            "savings_bank_balance": 125.23,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 16,
+            "age": 8,
+            "location_sector": "Asia",
+            "energy": 90,
+            "savings_bank_balance": 115.23,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 17,
+            "age": 9,
+            "location_sector": "Asia",
+            "energy": 90,
+            "savings_bank_balance": 105.23,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 18,
+            "age": 10,
+            "location_sector": "Asia",
+            "energy": 90,
+            "savings_bank_balance": 120.23,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 19,
+            "age": 11,
+            "location_sector": "Asia",
+            "energy": 90,
+            "savings_bank_balance": 135.23,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 20,
+            "age": 12,
+            "location_sector": "Asia",
+            "energy": 90,
+            "savings_bank_balance": 150.23,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 21,
+            "age": 13,
+            "location_sector": "Asia",
+            "energy": 90,
+            "savings_bank_balance": 140.23,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 22,
+            "age": 14,
+            "location_sector": "Asia",
+            "energy": 90,
+            "savings_bank_balance": 155.23,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 23,
+            "age": 15,
+            "location_sector": "Asia",
+            "energy": 90,
+            "savings_bank_balance": 145.23,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 24,
+            "age": 16,
+            "location_sector": "Asia",
+            "energy": 80,
+            "savings_bank_balance": 125.23,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 25,
+            "age": 17,
+            "location_sector": "Asia",
+            "energy": 70,
+            "savings_bank_balance": 105.23,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 26,
+            "age": 18,
+            "location_sector": "Asia",
+            "energy": 70,
+            "savings_bank_balance": 120.23,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 27,
+            "age": 19,
+            "location_sector": "Asia",
+            "energy": 70,
+            "savings_bank_balance": 90.23,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 28,
+            "age": 20,
+            "location_sector": "Asia",
+            "energy": 60,
+            "savings_bank_balance": 55.23,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 29,
+            "age": 21,
+            "location_sector": "Asia",
+            "energy": 60,
+            "savings_bank_balance": 25.23,
+            "social_class": "Middle"
+        },
+        {
+            "year": 30,
+            "age": 22,
+            "location_sector": "Asia",
+            "energy": 60,
+            "savings_bank_balance": 35.23,
+            "social_class": "Middle"
+        }
+    ],
+    "marriage_history": [],
+    "brain_weights": [
+        -0.7135618054019425,
+        -0.050871483625244636,
+        1.5397902274772015,
+        -0.07788751312822773,
+        -0.3643159553734411
+    ]
+}

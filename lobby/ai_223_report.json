@@ -1,0 +1,80 @@
+{
+    "agent_id": 223,
+    "assigned_gender": "M",
+    "total_kids_count": 0,
+    "children_produced_ids": [],
+    "final_status": "Alive",
+    "cause_of_death": "N/A",
+    "year_of_death": "N/A",
+    "final_savings_balance": 134.75,
+    "final_energy_level": 90,
+    "travel_history_log": [
+        "Europe"
+    ],
+    "biometric_history_log": [
+        {
+            "year": 24,
+            "age": 1,
+            "location_sector": "Europe",
+            "energy": 90,
+            "savings_bank_balance": 54.75,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 25,
+            "age": 2,
+            "location_sector": "Europe",
+            "energy": 90,
+            "savings_bank_balance": 69.75,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 26,
+            "age": 3,
+            "location_sector": "Europe",
+            "energy": 90,
+            "savings_bank_balance": 84.75,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 27,
+            "age": 4,
+            "location_sector": "Europe",
+            "energy": 90,
+            "savings_bank_balance": 114.75,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 28,
+            "age": 5,
+            "location_sector": "Europe",
+            "energy": 90,
+            "savings_bank_balance": 129.75,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 29,
+            "age": 6,
+            "location_sector": "Europe",
+            "energy": 90,
+            "savings_bank_balance": 144.75,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 30,
+            "age": 7,
+            "location_sector": "Europe",
+            "energy": 90,
+            "savings_bank_balance": 134.75,
+            "social_class": "Wealthy"
+        }
+    ],
+    "marriage_history": [],
+    "brain_weights": [
+        -0.5783306294560975,
+        0.101129549290394,
+        1.9106184167981786,
+        -0.07674851278846986,
+        -0.008986378157350913
+    ]
+}

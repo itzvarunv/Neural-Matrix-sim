@@ -1,0 +1,102 @@
+{
+    "agent_id": 39,
+    "assigned_gender": "M",
+    "total_kids_count": 1,
+    "children_produced_ids": [
+        144
+    ],
+    "final_status": "Dead",
+    "cause_of_death": "Socio-Economic Disease Roll",
+    "year_of_death": 10,
+    "final_savings_balance": 73.65,
+    "final_energy_level": 7,
+    "travel_history_log": [
+        "Europe",
+        "Asia",
+        "Europe",
+        "Africa",
+        "Europe"
+    ],
+    "biometric_history_log": [
+        {
+            "year": 1,
+            "age": 21,
+            "location_sector": "Asia",
+            "energy": 90,
+            "savings_bank_balance": 43.65,
+            "social_class": "Poor"
+        },
+        {
+            "year": 2,
+            "age": 22,
+            "location_sector": "Europe",
+            "energy": 53,
+            "savings_bank_balance": 68.65,
+            "social_class": "Middle"
+        },
+        {
+            "year": 3,
+            "age": 23,
+            "location_sector": "Africa",
+            "energy": 53,
+            "savings_bank_balance": 93.65,
+            "social_class": "Middle"
+        },
+        {
+            "year": 4,
+            "age": 24,
+            "location_sector": "Europe",
+            "energy": 7,
+            "savings_bank_balance": 78.65,
+            "social_class": "Middle"
+        },
+        {
+            "year": 5,
+            "age": 25,
+            "location_sector": "Europe",
+            "energy": 7,
+            "savings_bank_balance": 88.65,
+            "social_class": "Poor"
+        },
+        {
+            "year": 6,
+            "age": 26,
+            "location_sector": "Europe",
+            "energy": 7,
+            "savings_bank_balance": 83.65,
+            "social_class": "Poor"
+        },
+        {
+            "year": 7,
+            "age": 27,
+            "location_sector": "Europe",
+            "energy": 7,
+            "savings_bank_balance": 53.65,
+            "social_class": "Poor"
+        },
+        {
+            "year": 8,
+            "age": 28,
+            "location_sector": "Europe",
+            "energy": 7,
+            "savings_bank_balance": 83.65,
+            "social_class": "Poor"
+        },
+        {
+            "year": 9,
+            "age": 29,
+            "location_sector": "Europe",
+            "energy": 7,
+            "savings_bank_balance": 73.65,
+            "social_class": "Poor"
+        }
+    ],
+    "marriage_history": [],
+    "brain_weights": [
+        -0.5123760869613666,
+        -0.5505459922424881,
+        2.635841921500824,
+        -0.24175745350640454,
+        0.19002374975565717
+    ]
+}

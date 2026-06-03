@@ -1,0 +1,150 @@
+{
+    "agent_id": 40,
+    "gender": "F",
+    "final_status": "Dead",
+    "marital_regime": "None",
+    "cause_of_death": "Starvation / Exhaustion",
+    "year_of_death": 15,
+    "final_savings": -8.62,
+    "history": [
+        {
+            "year": 1,
+            "age": 18,
+            "location_sector": "Europe",
+            "energy": 90,
+            "savings_bank_balance": 64.58,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 2,
+            "age": 19,
+            "location_sector": "Europe",
+            "energy": 80,
+            "savings_bank_balance": 39.41,
+            "social_class": "Poor",
+            "marital_regime": "None"
+        },
+        {
+            "year": 3,
+            "age": 20,
+            "location_sector": "Europe",
+            "energy": 70,
+            "savings_bank_balance": 44.29,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 4,
+            "age": 21,
+            "location_sector": "Asia",
+            "energy": 45,
+            "savings_bank_balance": 46.17,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 5,
+            "age": 22,
+            "location_sector": "Asia",
+            "energy": 70,
+            "savings_bank_balance": 34.85,
+            "social_class": "Poor",
+            "marital_regime": "None"
+        },
+        {
+            "year": 6,
+            "age": 23,
+            "location_sector": "Asia",
+            "energy": 60,
+            "savings_bank_balance": 38.53,
+            "social_class": "Poor",
+            "marital_regime": "None"
+        },
+        {
+            "year": 6,
+            "event": "\ud83d\udc94 Neural separation triggered. Left Agent 57."
+        },
+        {
+            "year": 7,
+            "age": 24,
+            "location_sector": "Asia",
+            "energy": 50,
+            "savings_bank_balance": 15.38,
+            "social_class": "Poor",
+            "marital_regime": "None"
+        },
+        {
+            "year": 8,
+            "age": 25,
+            "location_sector": "Asia",
+            "energy": 75,
+            "savings_bank_balance": 4.66,
+            "social_class": "Poor",
+            "marital_regime": "None"
+        },
+        {
+            "year": 9,
+            "age": 26,
+            "location_sector": "Europe",
+            "energy": 50,
+            "savings_bank_balance": 7.14,
+            "social_class": "Poor",
+            "marital_regime": "None"
+        },
+        {
+            "year": 10,
+            "age": 27,
+            "location_sector": "Europe",
+            "energy": 40,
+            "savings_bank_balance": 8.42,
+            "social_class": "Poor",
+            "marital_regime": "None"
+        },
+        {
+            "year": 11,
+            "age": 28,
+            "location_sector": "Europe",
+            "energy": 30,
+            "savings_bank_balance": 8.5,
+            "social_class": "Poor",
+            "marital_regime": "None"
+        },
+        {
+            "year": 12,
+            "age": 29,
+            "location_sector": "Europe",
+            "energy": 20,
+            "savings_bank_balance": 7.38,
+            "social_class": "Poor",
+            "marital_regime": "None"
+        },
+        {
+            "year": 13,
+            "age": 30,
+            "location_sector": "Europe",
+            "energy": 14,
+            "savings_bank_balance": 3.38,
+            "social_class": "Poor",
+            "marital_regime": "None"
+        },
+        {
+            "year": 14,
+            "age": 31,
+            "location_sector": "Europe",
+            "energy": 8,
+            "savings_bank_balance": -0.62,
+            "social_class": "Poor",
+            "marital_regime": "None"
+        },
+        {
+            "year": 15,
+            "age": 32,
+            "location_sector": "Europe",
+            "energy": 2,
+            "savings_bank_balance": -4.62,
+            "social_class": "Poor",
+            "marital_regime": "None"
+        }
+    ]
+}

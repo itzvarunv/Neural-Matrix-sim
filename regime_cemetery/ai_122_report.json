@@ -1,0 +1,96 @@
+{
+    "agent_id": 122,
+    "gender": "F",
+    "final_status": "Dead",
+    "marital_regime": "None",
+    "cause_of_death": "Starvation / Exhaustion",
+    "year_of_death": 10,
+    "final_savings": -23.5,
+    "history": [
+        {
+            "year": 2,
+            "age": 0,
+            "location_sector": "Europe",
+            "energy": 90,
+            "savings_bank_balance": 25.0,
+            "social_class": "Poor",
+            "marital_regime": "None"
+        },
+        {
+            "year": 3,
+            "age": 1,
+            "location_sector": "Europe",
+            "energy": 84,
+            "savings_bank_balance": 21.0,
+            "social_class": "Poor",
+            "marital_regime": "None"
+        },
+        {
+            "year": 4,
+            "age": 2,
+            "location_sector": "Europe",
+            "energy": 63,
+            "savings_bank_balance": 4.5,
+            "social_class": "Poor",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 5,
+            "age": 3,
+            "location_sector": "Europe",
+            "energy": 57,
+            "savings_bank_balance": 0.5,
+            "social_class": "Poor",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 6,
+            "age": 4,
+            "location_sector": "Europe",
+            "energy": 51,
+            "savings_bank_balance": -3.5,
+            "social_class": "Poor",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 7,
+            "age": 5,
+            "location_sector": "Europe",
+            "energy": 45,
+            "savings_bank_balance": -7.5,
+            "social_class": "Poor",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 8,
+            "age": 6,
+            "location_sector": "Europe",
+            "energy": 39,
+            "savings_bank_balance": -11.5,
+            "social_class": "Poor",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 9,
+            "age": 7,
+            "location_sector": "Europe",
+            "energy": 33,
+            "savings_bank_balance": -15.5,
+            "social_class": "Poor",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 9,
+            "event": "\ud83d\udc94 Neural separation triggered. Left Agent 19."
+        },
+        {
+            "year": 10,
+            "age": 8,
+            "location_sector": "Europe",
+            "energy": 27,
+            "savings_bank_balance": -19.5,
+            "social_class": "Poor",
+            "marital_regime": "None"
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "agent_id": 32,
+    "gender": "F",
+    "final_status": "Dead",
+    "marital_regime": "Separate",
+    "cause_of_death": "Starvation / Exhaustion",
+    "year_of_death": 7,
+    "final_savings": -16.67,
+    "history": [
+        {
+            "year": 1,
+            "age": 18,
+            "location_sector": "Europe",
+            "energy": 90,
+            "savings_bank_balance": 45.51,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 2,
+            "age": 19,
+            "location_sector": "Europe",
+            "energy": 80,
+            "savings_bank_balance": 22.21,
+            "social_class": "Poor",
+            "marital_regime": "None"
+        },
+        {
+            "year": 3,
+            "age": 20,
+            "location_sector": "Europe",
+            "energy": 70,
+            "savings_bank_balance": 27.09,
+            "social_class": "Poor",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 4,
+            "age": 21,
+            "location_sector": "Asia",
+            "energy": 40,
+            "savings_bank_balance": 0.25,
+            "social_class": "Poor",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 5,
+            "age": 22,
+            "location_sector": "Asia",
+            "energy": 30,
+            "savings_bank_balance": 0.33,
+            "social_class": "Poor",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 6,
+            "age": 23,
+            "location_sector": "Africa",
+            "energy": 9,
+            "savings_bank_balance": -8.67,
+            "social_class": "Poor",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 7,
+            "age": 24,
+            "location_sector": "Africa",
+            "energy": 3,
+            "savings_bank_balance": -12.67,
+            "social_class": "Poor",
+            "marital_regime": "Separate"
+        }
+    ]
+}

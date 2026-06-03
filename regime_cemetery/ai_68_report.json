@@ -1,0 +1,558 @@
+{
+    "agent_id": 68,
+    "gender": "F",
+    "final_status": "Dead",
+    "marital_regime": "None",
+    "cause_of_death": "Biological Limit (Old Age)",
+    "year_of_death": 59,
+    "final_savings": 18.59,
+    "history": [
+        {
+            "year": 1,
+            "age": 18,
+            "location_sector": "Asia",
+            "energy": 90,
+            "savings_bank_balance": 57.07,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 2,
+            "age": 19,
+            "location_sector": "Asia",
+            "energy": 80,
+            "savings_bank_balance": 63.15,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 3,
+            "age": 20,
+            "location_sector": "Asia",
+            "energy": 70,
+            "savings_bank_balance": 68.03,
+            "social_class": "Middle",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 4,
+            "age": 21,
+            "location_sector": "Asia",
+            "energy": 60,
+            "savings_bank_balance": 71.71,
+            "social_class": "Middle",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 5,
+            "age": 22,
+            "location_sector": "Asia",
+            "energy": 50,
+            "savings_bank_balance": 74.19,
+            "social_class": "Middle",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 6,
+            "age": 23,
+            "location_sector": "Asia",
+            "energy": 75,
+            "savings_bank_balance": 63.47,
+            "social_class": "Middle",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 7,
+            "age": 24,
+            "location_sector": "Asia",
+            "energy": 65,
+            "savings_bank_balance": 67.75,
+            "social_class": "Middle",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 8,
+            "age": 25,
+            "location_sector": "Asia",
+            "energy": 55,
+            "savings_bank_balance": 70.83,
+            "social_class": "Middle",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 9,
+            "age": 26,
+            "location_sector": "Asia",
+            "energy": 45,
+            "savings_bank_balance": 72.71,
+            "social_class": "Middle",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 10,
+            "age": 27,
+            "location_sector": "Asia",
+            "energy": 70,
+            "savings_bank_balance": 61.39,
+            "social_class": "Middle",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 11,
+            "age": 28,
+            "location_sector": "Asia",
+            "energy": 60,
+            "savings_bank_balance": 65.07,
+            "social_class": "Middle",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 12,
+            "age": 29,
+            "location_sector": "Asia",
+            "energy": 50,
+            "savings_bank_balance": 67.55,
+            "social_class": "Middle",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 13,
+            "age": 30,
+            "location_sector": "Asia",
+            "energy": 75,
+            "savings_bank_balance": 56.83,
+            "social_class": "Middle",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 14,
+            "age": 31,
+            "location_sector": "Asia",
+            "energy": 65,
+            "savings_bank_balance": 61.11,
+            "social_class": "Middle",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 15,
+            "age": 32,
+            "location_sector": "Asia",
+            "energy": 55,
+            "savings_bank_balance": 64.19,
+            "social_class": "Middle",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 15,
+            "event": "\ud83d\udc94 Neural separation triggered. Left Agent 43."
+        },
+        {
+            "year": 16,
+            "age": 33,
+            "location_sector": "Asia",
+            "energy": 45,
+            "savings_bank_balance": 66.07,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 17,
+            "age": 34,
+            "location_sector": "Asia",
+            "energy": 70,
+            "savings_bank_balance": 54.75,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 18,
+            "age": 35,
+            "location_sector": "Asia",
+            "energy": 60,
+            "savings_bank_balance": 58.43,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 19,
+            "age": 36,
+            "location_sector": "Asia",
+            "energy": 50,
+            "savings_bank_balance": 60.91,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 20,
+            "age": 37,
+            "location_sector": "Asia",
+            "energy": 75,
+            "savings_bank_balance": 50.19,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 21,
+            "age": 38,
+            "location_sector": "Asia",
+            "energy": 65,
+            "savings_bank_balance": 54.47,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 22,
+            "age": 39,
+            "location_sector": "Asia",
+            "energy": 55,
+            "savings_bank_balance": 57.55,
+            "social_class": "Middle",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 23,
+            "age": 40,
+            "location_sector": "Asia",
+            "energy": 45,
+            "savings_bank_balance": 59.43,
+            "social_class": "Middle",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 24,
+            "age": 41,
+            "location_sector": "Asia",
+            "energy": 70,
+            "savings_bank_balance": 48.11,
+            "social_class": "Middle",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 24,
+            "event": "\ud83d\udc94 Neural separation triggered. Left Agent 43."
+        },
+        {
+            "year": 25,
+            "age": 42,
+            "location_sector": "Asia",
+            "energy": 60,
+            "savings_bank_balance": 51.79,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 26,
+            "age": 43,
+            "location_sector": "Asia",
+            "energy": 50,
+            "savings_bank_balance": 54.27,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 27,
+            "age": 44,
+            "location_sector": "Asia",
+            "energy": 75,
+            "savings_bank_balance": 43.55,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 28,
+            "age": 45,
+            "location_sector": "Asia",
+            "energy": 65,
+            "savings_bank_balance": 47.83,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 29,
+            "age": 46,
+            "location_sector": "Asia",
+            "energy": 55,
+            "savings_bank_balance": 50.91,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 30,
+            "age": 47,
+            "location_sector": "Asia",
+            "energy": 45,
+            "savings_bank_balance": 52.79,
+            "social_class": "Middle",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 30,
+            "event": "\ud83d\udc94 Neural separation triggered. Left Agent 43."
+        },
+        {
+            "year": 31,
+            "age": 48,
+            "location_sector": "Asia",
+            "energy": 70,
+            "savings_bank_balance": 41.47,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 32,
+            "age": 49,
+            "location_sector": "Asia",
+            "energy": 60,
+            "savings_bank_balance": 45.15,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 33,
+            "age": 50,
+            "location_sector": "Asia",
+            "energy": 50,
+            "savings_bank_balance": 47.63,
+            "social_class": "Middle",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 34,
+            "age": 51,
+            "location_sector": "Asia",
+            "energy": 75,
+            "savings_bank_balance": 36.91,
+            "social_class": "Poor",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 35,
+            "age": 52,
+            "location_sector": "Asia",
+            "energy": 65,
+            "savings_bank_balance": 41.19,
+            "social_class": "Middle",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 36,
+            "age": 53,
+            "location_sector": "Asia",
+            "energy": 55,
+            "savings_bank_balance": 44.27,
+            "social_class": "Middle",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 37,
+            "age": 54,
+            "location_sector": "Asia",
+            "energy": 45,
+            "savings_bank_balance": 46.15,
+            "social_class": "Middle",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 38,
+            "age": 55,
+            "location_sector": "Asia",
+            "energy": 70,
+            "savings_bank_balance": 34.83,
+            "social_class": "Poor",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 39,
+            "age": 56,
+            "location_sector": "Asia",
+            "energy": 60,
+            "savings_bank_balance": 38.51,
+            "social_class": "Poor",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 40,
+            "age": 57,
+            "location_sector": "Asia",
+            "energy": 50,
+            "savings_bank_balance": 40.99,
+            "social_class": "Middle",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 41,
+            "age": 58,
+            "location_sector": "Asia",
+            "energy": 75,
+            "savings_bank_balance": 30.27,
+            "social_class": "Poor",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 42,
+            "age": 59,
+            "location_sector": "Asia",
+            "energy": 65,
+            "savings_bank_balance": 34.55,
+            "social_class": "Poor",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 43,
+            "age": 60,
+            "location_sector": "Asia",
+            "energy": 55,
+            "savings_bank_balance": 37.63,
+            "social_class": "Poor",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 44,
+            "age": 61,
+            "location_sector": "Asia",
+            "energy": 45,
+            "savings_bank_balance": 39.51,
+            "social_class": "Poor",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 45,
+            "age": 62,
+            "location_sector": "Asia",
+            "energy": 70,
+            "savings_bank_balance": 28.19,
+            "social_class": "Poor",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 46,
+            "age": 63,
+            "location_sector": "Asia",
+            "energy": 60,
+            "savings_bank_balance": 31.87,
+            "social_class": "Poor",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 47,
+            "age": 64,
+            "location_sector": "Asia",
+            "energy": 50,
+            "savings_bank_balance": 34.35,
+            "social_class": "Poor",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 48,
+            "age": 65,
+            "location_sector": "Asia",
+            "energy": 75,
+            "savings_bank_balance": 23.63,
+            "social_class": "Poor",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 49,
+            "age": 66,
+            "location_sector": "Asia",
+            "energy": 65,
+            "savings_bank_balance": 27.91,
+            "social_class": "Poor",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 50,
+            "age": 67,
+            "location_sector": "Asia",
+            "energy": 55,
+            "savings_bank_balance": 30.99,
+            "social_class": "Poor",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 50,
+            "event": "\ud83d\udc94 Neural separation triggered. Left Agent 43."
+        },
+        {
+            "year": 51,
+            "age": 68,
+            "location_sector": "Asia",
+            "energy": 45,
+            "savings_bank_balance": 32.87,
+            "social_class": "Poor",
+            "marital_regime": "None"
+        },
+        {
+            "year": 52,
+            "age": 69,
+            "location_sector": "Asia",
+            "energy": 70,
+            "savings_bank_balance": 21.55,
+            "social_class": "Poor",
+            "marital_regime": "None"
+        },
+        {
+            "year": 53,
+            "age": 70,
+            "location_sector": "Asia",
+            "energy": 60,
+            "savings_bank_balance": 25.23,
+            "social_class": "Poor",
+            "marital_regime": "None"
+        },
+        {
+            "year": 54,
+            "age": 71,
+            "location_sector": "Asia",
+            "energy": 50,
+            "savings_bank_balance": 27.71,
+            "social_class": "Poor",
+            "marital_regime": "None"
+        },
+        {
+            "year": 55,
+            "age": 72,
+            "location_sector": "Asia",
+            "energy": 75,
+            "savings_bank_balance": 16.99,
+            "social_class": "Poor",
+            "marital_regime": "None"
+        },
+        {
+            "year": 56,
+            "age": 73,
+            "location_sector": "Asia",
+            "energy": 65,
+            "savings_bank_balance": 21.27,
+            "social_class": "Poor",
+            "marital_regime": "None"
+        },
+        {
+            "year": 57,
+            "age": 74,
+            "location_sector": "Asia",
+            "energy": 55,
+            "savings_bank_balance": 24.35,
+            "social_class": "Poor",
+            "marital_regime": "None"
+        },
+        {
+            "year": 58,
+            "age": 75,
+            "location_sector": "Asia",
+            "energy": 45,
+            "savings_bank_balance": 26.23,
+            "social_class": "Poor",
+            "marital_regime": "None"
+        },
+        {
+            "year": 59,
+            "age": 76,
+            "location_sector": "Asia",
+            "energy": 70,
+            "savings_bank_balance": 14.91,
+            "social_class": "Poor",
+            "marital_regime": "None"
+        }
+    ]
+}

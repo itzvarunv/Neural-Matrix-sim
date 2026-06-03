@@ -1,0 +1,163 @@
+{
+    "agent_id": 82,
+    "gender": "F",
+    "final_status": "Dead",
+    "marital_regime": "None",
+    "cause_of_death": "Starvation / Exhaustion",
+    "year_of_death": 16,
+    "final_savings": -14.16,
+    "history": [
+        {
+            "year": 1,
+            "age": 18,
+            "location_sector": "Africa",
+            "energy": 90,
+            "savings_bank_balance": 117.93,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 2,
+            "age": 19,
+            "location_sector": "Africa",
+            "energy": 65,
+            "savings_bank_balance": 111.51,
+            "social_class": "Middle",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 3,
+            "age": 20,
+            "location_sector": "Africa",
+            "energy": 75,
+            "savings_bank_balance": 90.09,
+            "social_class": "Middle",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 4,
+            "age": 21,
+            "location_sector": "Africa",
+            "energy": 50,
+            "savings_bank_balance": 81.87,
+            "social_class": "Middle",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 5,
+            "age": 22,
+            "location_sector": "Africa",
+            "energy": 60,
+            "savings_bank_balance": 58.65,
+            "social_class": "Middle",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 5,
+            "event": "\ud83d\udc94 Neural separation triggered. Left Agent 119."
+        },
+        {
+            "year": 6,
+            "age": 23,
+            "location_sector": "Africa",
+            "energy": 50,
+            "savings_bank_balance": 61.13,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 7,
+            "age": 24,
+            "location_sector": "Africa",
+            "energy": 75,
+            "savings_bank_balance": 50.41,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 8,
+            "age": 25,
+            "location_sector": "Africa",
+            "energy": 65,
+            "savings_bank_balance": 54.69,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 9,
+            "age": 26,
+            "location_sector": "Africa",
+            "energy": 55,
+            "savings_bank_balance": 57.77,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 10,
+            "age": 27,
+            "location_sector": "Africa",
+            "energy": 45,
+            "savings_bank_balance": 59.65,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 11,
+            "age": 28,
+            "location_sector": "Africa",
+            "energy": 70,
+            "savings_bank_balance": 48.33,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 12,
+            "age": 29,
+            "location_sector": "Africa",
+            "energy": 45,
+            "savings_bank_balance": 19.84,
+            "social_class": "Poor",
+            "marital_regime": "Communist"
+        },
+        {
+            "year": 13,
+            "age": 30,
+            "location_sector": "Africa",
+            "energy": 20,
+            "savings_bank_balance": 8.02,
+            "social_class": "Poor",
+            "marital_regime": "Communist"
+        },
+        {
+            "year": 14,
+            "age": 31,
+            "location_sector": "Africa",
+            "energy": 14,
+            "savings_bank_balance": 4.02,
+            "social_class": "Poor",
+            "marital_regime": "Communist"
+        },
+        {
+            "year": 14,
+            "event": "\ud83d\udc94 Neural separation triggered. Left Agent 155."
+        },
+        {
+            "year": 15,
+            "age": 32,
+            "location_sector": "Africa",
+            "energy": 8,
+            "savings_bank_balance": -6.16,
+            "social_class": "Poor",
+            "marital_regime": "None"
+        },
+        {
+            "year": 16,
+            "age": 33,
+            "location_sector": "Africa",
+            "energy": 2,
+            "savings_bank_balance": -10.16,
+            "social_class": "Poor",
+            "marital_regime": "None"
+        }
+    ]
+}

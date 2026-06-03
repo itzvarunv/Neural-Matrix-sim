@@ -1,0 +1,137 @@
+{
+    "agent_id": 25,
+    "gender": "M",
+    "final_status": "Dead",
+    "marital_regime": "None",
+    "cause_of_death": "Starvation / Exhaustion",
+    "year_of_death": 14,
+    "final_savings": -10.64,
+    "history": [
+        {
+            "year": 1,
+            "age": 18,
+            "location_sector": "Europe",
+            "energy": 90,
+            "savings_bank_balance": 176.96,
+            "social_class": "Wealthy",
+            "marital_regime": "None"
+        },
+        {
+            "year": 2,
+            "age": 19,
+            "location_sector": "Europe",
+            "energy": 80,
+            "savings_bank_balance": 154.29,
+            "social_class": "Wealthy",
+            "marital_regime": "None"
+        },
+        {
+            "year": 3,
+            "age": 20,
+            "location_sector": "Europe",
+            "energy": 70,
+            "savings_bank_balance": 159.17,
+            "social_class": "Wealthy",
+            "marital_regime": "None"
+        },
+        {
+            "year": 4,
+            "age": 21,
+            "location_sector": "Asia",
+            "energy": 45,
+            "savings_bank_balance": 93.05,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 5,
+            "age": 22,
+            "location_sector": "Asia",
+            "energy": 70,
+            "savings_bank_balance": 81.73,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 6,
+            "age": 23,
+            "location_sector": "Africa",
+            "energy": 45,
+            "savings_bank_balance": 19.61,
+            "social_class": "Poor",
+            "marital_regime": "None"
+        },
+        {
+            "year": 7,
+            "age": 24,
+            "location_sector": "Africa",
+            "energy": 70,
+            "savings_bank_balance": 8.29,
+            "social_class": "Poor",
+            "marital_regime": "None"
+        },
+        {
+            "year": 8,
+            "age": 25,
+            "location_sector": "Asia",
+            "energy": 45,
+            "savings_bank_balance": 10.17,
+            "social_class": "Poor",
+            "marital_regime": "None"
+        },
+        {
+            "year": 9,
+            "age": 26,
+            "location_sector": "Asia",
+            "energy": 35,
+            "savings_bank_balance": 10.85,
+            "social_class": "Poor",
+            "marital_regime": "None"
+        },
+        {
+            "year": 10,
+            "age": 27,
+            "location_sector": "Asia",
+            "energy": 25,
+            "savings_bank_balance": 10.33,
+            "social_class": "Poor",
+            "marital_regime": "None"
+        },
+        {
+            "year": 11,
+            "age": 28,
+            "location_sector": "Asia",
+            "energy": 19,
+            "savings_bank_balance": 6.33,
+            "social_class": "Poor",
+            "marital_regime": "None"
+        },
+        {
+            "year": 12,
+            "age": 29,
+            "location_sector": "Asia",
+            "energy": 13,
+            "savings_bank_balance": 1.36,
+            "social_class": "Poor",
+            "marital_regime": "Communist"
+        },
+        {
+            "year": 13,
+            "age": 30,
+            "location_sector": "Asia",
+            "energy": 7,
+            "savings_bank_balance": -2.64,
+            "social_class": "Poor",
+            "marital_regime": "Communist"
+        },
+        {
+            "year": 14,
+            "age": 31,
+            "location_sector": "Asia",
+            "energy": 1,
+            "savings_bank_balance": -6.64,
+            "social_class": "Poor",
+            "marital_regime": "None"
+        }
+    ]
+}

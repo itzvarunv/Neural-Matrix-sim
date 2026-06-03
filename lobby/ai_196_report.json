@@ -1,0 +1,159 @@
+{
+    "agent_id": 196,
+    "assigned_gender": "F",
+    "total_kids_count": 1,
+    "children_produced_ids": [
+        260
+    ],
+    "final_status": "Alive",
+    "cause_of_death": "N/A",
+    "year_of_death": "N/A",
+    "final_savings_balance": 206.26,
+    "final_energy_level": 90,
+    "travel_history_log": [
+        "Africa"
+    ],
+    "biometric_history_log": [
+        {
+            "year": 16,
+            "age": 1,
+            "location_sector": "Africa",
+            "energy": 90,
+            "savings_bank_balance": 76.26,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 17,
+            "age": 2,
+            "location_sector": "Africa",
+            "energy": 90,
+            "savings_bank_balance": 91.26,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 18,
+            "age": 3,
+            "location_sector": "Africa",
+            "energy": 90,
+            "savings_bank_balance": 106.26,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 19,
+            "age": 4,
+            "location_sector": "Africa",
+            "energy": 90,
+            "savings_bank_balance": 136.26,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 20,
+            "age": 5,
+            "location_sector": "Africa",
+            "energy": 90,
+            "savings_bank_balance": 126.26,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 21,
+            "age": 6,
+            "location_sector": "Africa",
+            "energy": 90,
+            "savings_bank_balance": 116.26,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 22,
+            "age": 7,
+            "location_sector": "Africa",
+            "energy": 90,
+            "savings_bank_balance": 131.26,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 23,
+            "age": 8,
+            "location_sector": "Africa",
+            "energy": 90,
+            "savings_bank_balance": 161.26,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 24,
+            "age": 9,
+            "location_sector": "Africa",
+            "energy": 90,
+            "savings_bank_balance": 176.26,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 25,
+            "age": 10,
+            "location_sector": "Africa",
+            "energy": 90,
+            "savings_bank_balance": 191.26,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 26,
+            "age": 11,
+            "location_sector": "Africa",
+            "energy": 90,
+            "savings_bank_balance": 181.26,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 27,
+            "age": 12,
+            "location_sector": "Africa",
+            "energy": 90,
+            "savings_bank_balance": 171.26,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 28,
+            "age": 13,
+            "location_sector": "Africa",
+            "energy": 90,
+            "savings_bank_balance": 201.26,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 29,
+            "age": 14,
+            "location_sector": "Africa",
+            "energy": 90,
+            "savings_bank_balance": 191.26,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 30,
+            "age": 15,
+            "location_sector": "Africa",
+            "energy": 90,
+            "savings_bank_balance": 206.26,
+            "social_class": "Wealthy"
+        }
+    ],
+    "marriage_history": [
+        {
+            "year": 29,
+            "partner_id": 197,
+            "partner_class": "Wealthy",
+            "outcome": "Biological Incompatibility Fail"
+        },
+        {
+            "year": 30,
+            "partner_id": 197,
+            "partner_class": "Wealthy",
+            "outcome": "Conception Successful"
+        }
+    ],
+    "brain_weights": [
+        -0.9401029128635143,
+        0.07629326946898166,
+        2.578731470235205,
+        0.10620748691880594,
+        -0.07898700852174677
+    ]
+}

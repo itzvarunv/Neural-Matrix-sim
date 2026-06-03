@@ -1,0 +1,443 @@
+{
+    "agent_id": 115,
+    "assigned_gender": "F",
+    "total_kids_count": 0,
+    "children_produced_ids": [],
+    "final_status": "Dead",
+    "cause_of_death": "Socio-Economic Disease Roll",
+    "year_of_death": 24,
+    "final_savings_balance": 232.84,
+    "final_energy_level": 90,
+    "travel_history_log": [
+        "Africa"
+    ],
+    "biometric_history_log": [
+        {
+            "year": 1,
+            "age": 21,
+            "location_sector": "Africa",
+            "energy": 90,
+            "savings_bank_balance": 32.84,
+            "social_class": "Poor"
+        },
+        {
+            "year": 2,
+            "age": 22,
+            "location_sector": "Africa",
+            "energy": 90,
+            "savings_bank_balance": 62.84,
+            "social_class": "Middle"
+        },
+        {
+            "year": 3,
+            "age": 23,
+            "location_sector": "Africa",
+            "energy": 90,
+            "savings_bank_balance": 92.84,
+            "social_class": "Middle"
+        },
+        {
+            "year": 4,
+            "age": 24,
+            "location_sector": "Africa",
+            "energy": 90,
+            "savings_bank_balance": 82.84,
+            "social_class": "Middle"
+        },
+        {
+            "year": 5,
+            "age": 25,
+            "location_sector": "Africa",
+            "energy": 90,
+            "savings_bank_balance": 72.84,
+            "social_class": "Middle"
+        },
+        {
+            "year": 6,
+            "age": 26,
+            "location_sector": "Africa",
+            "energy": 90,
+            "savings_bank_balance": 102.84,
+            "social_class": "Middle"
+        },
+        {
+            "year": 7,
+            "age": 27,
+            "location_sector": "Africa",
+            "energy": 90,
+            "savings_bank_balance": 92.84,
+            "social_class": "Middle"
+        },
+        {
+            "year": 8,
+            "age": 28,
+            "location_sector": "Africa",
+            "energy": 90,
+            "savings_bank_balance": 82.84,
+            "social_class": "Middle"
+        },
+        {
+            "year": 9,
+            "age": 29,
+            "location_sector": "Africa",
+            "energy": 90,
+            "savings_bank_balance": 97.84,
+            "social_class": "Middle"
+        },
+        {
+            "year": 10,
+            "age": 30,
+            "location_sector": "Africa",
+            "energy": 90,
+            "savings_bank_balance": 127.84,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 11,
+            "age": 31,
+            "location_sector": "Africa",
+            "energy": 90,
+            "savings_bank_balance": 142.84,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 12,
+            "age": 32,
+            "location_sector": "Africa",
+            "energy": 90,
+            "savings_bank_balance": 172.84,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 13,
+            "age": 33,
+            "location_sector": "Africa",
+            "energy": 90,
+            "savings_bank_balance": 202.84,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 14,
+            "age": 34,
+            "location_sector": "Africa",
+            "energy": 90,
+            "savings_bank_balance": 192.84,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 15,
+            "age": 35,
+            "location_sector": "Africa",
+            "energy": 90,
+            "savings_bank_balance": 207.84,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 16,
+            "age": 36,
+            "location_sector": "Africa",
+            "energy": 90,
+            "savings_bank_balance": 197.84,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 17,
+            "age": 37,
+            "location_sector": "Africa",
+            "energy": 90,
+            "savings_bank_balance": 187.84,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 18,
+            "age": 38,
+            "location_sector": "Africa",
+            "energy": 90,
+            "savings_bank_balance": 177.84,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 19,
+            "age": 39,
+            "location_sector": "Africa",
+            "energy": 90,
+            "savings_bank_balance": 192.84,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 20,
+            "age": 40,
+            "location_sector": "Africa",
+            "energy": 90,
+            "savings_bank_balance": 222.84,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 21,
+            "age": 41,
+            "location_sector": "Africa",
+            "energy": 90,
+            "savings_bank_balance": 212.84,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 22,
+            "age": 42,
+            "location_sector": "Africa",
+            "energy": 90,
+            "savings_bank_balance": 242.84,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 23,
+            "age": 43,
+            "location_sector": "Africa",
+            "energy": 90,
+            "savings_bank_balance": 232.84,
+            "social_class": "Wealthy"
+        }
+    ],
+    "marriage_history": [
+        {
+            "year": 3,
+            "partner_id": 39,
+            "partner_class": "Middle",
+            "outcome": "Biological Incompatibility Fail"
+        },
+        {
+            "year": 4,
+            "partner_id": 111,
+            "partner_class": "Middle",
+            "outcome": "Courtship Rejected (Brain Output: 0.34)"
+        },
+        {
+            "year": 4,
+            "partner_id": 24,
+            "partner_class": "Middle",
+            "outcome": "Courtship Rejected (Brain Output: 0.34)"
+        },
+        {
+            "year": 4,
+            "partner_id": 97,
+            "partner_class": "Middle",
+            "outcome": "Courtship Rejected (Brain Output: 0.34)"
+        },
+        {
+            "year": 5,
+            "partner_id": 24,
+            "partner_class": "Middle",
+            "outcome": "Courtship Rejected (Brain Output: 0.44)"
+        },
+        {
+            "year": 5,
+            "partner_id": 97,
+            "partner_class": "Middle",
+            "outcome": "Courtship Rejected (Brain Output: 0.44)"
+        },
+        {
+            "year": 6,
+            "partner_id": 97,
+            "partner_class": "Middle",
+            "outcome": "Courtship Rejected (Brain Output: 0.41)"
+        },
+        {
+            "year": 6,
+            "partner_id": 24,
+            "partner_class": "Middle",
+            "outcome": "Courtship Rejected (Brain Output: 0.41)"
+        },
+        {
+            "year": 7,
+            "partner_id": 111,
+            "partner_class": "Middle",
+            "outcome": "Courtship Rejected (Brain Output: 0.45)"
+        },
+        {
+            "year": 7,
+            "partner_id": 97,
+            "partner_class": "Middle",
+            "outcome": "Courtship Rejected (Brain Output: 0.46)"
+        },
+        {
+            "year": 8,
+            "partner_id": 111,
+            "partner_class": "Middle",
+            "outcome": "Courtship Rejected (Brain Output: 0.4)"
+        },
+        {
+            "year": 16,
+            "partner_id": 130,
+            "partner_class": "Wealthy",
+            "outcome": "Courtship Rejected (Brain Output: 0.32)"
+        },
+        {
+            "year": 17,
+            "partner_id": 131,
+            "partner_class": "Wealthy",
+            "outcome": "Courtship Rejected (Brain Output: 0.43)"
+        },
+        {
+            "year": 17,
+            "partner_id": 127,
+            "partner_class": "Middle",
+            "outcome": "Courtship Rejected (Brain Output: 0.41)"
+        },
+        {
+            "year": 17,
+            "partner_id": 139,
+            "partner_class": "Wealthy",
+            "outcome": "Courtship Rejected (Brain Output: 0.43)"
+        },
+        {
+            "year": 17,
+            "partner_id": 130,
+            "partner_class": "Wealthy",
+            "outcome": "Courtship Rejected (Brain Output: 0.44)"
+        },
+        {
+            "year": 18,
+            "partner_id": 131,
+            "partner_class": "Wealthy",
+            "outcome": "Courtship Rejected (Brain Output: 0.39)"
+        },
+        {
+            "year": 18,
+            "partner_id": 130,
+            "partner_class": "Wealthy",
+            "outcome": "Courtship Rejected (Brain Output: 0.39)"
+        },
+        {
+            "year": 18,
+            "partner_id": 137,
+            "partner_class": "Wealthy",
+            "outcome": "Courtship Rejected (Brain Output: 0.39)"
+        },
+        {
+            "year": 19,
+            "partner_id": 154,
+            "partner_class": "Wealthy",
+            "outcome": "Courtship Rejected (Brain Output: 0.43)"
+        },
+        {
+            "year": 19,
+            "partner_id": 130,
+            "partner_class": "Wealthy",
+            "outcome": "Courtship Rejected (Brain Output: 0.43)"
+        },
+        {
+            "year": 19,
+            "partner_id": 131,
+            "partner_class": "Wealthy",
+            "outcome": "Courtship Rejected (Brain Output: 0.43)"
+        },
+        {
+            "year": 19,
+            "partner_id": 139,
+            "partner_class": "Wealthy",
+            "outcome": "Courtship Rejected (Brain Output: 0.43)"
+        },
+        {
+            "year": 20,
+            "partner_id": 130,
+            "partner_class": "Wealthy",
+            "outcome": "Courtship Rejected (Brain Output: 0.37)"
+        },
+        {
+            "year": 20,
+            "partner_id": 154,
+            "partner_class": "Wealthy",
+            "outcome": "Courtship Rejected (Brain Output: 0.37)"
+        },
+        {
+            "year": 20,
+            "partner_id": 139,
+            "partner_class": "Wealthy",
+            "outcome": "Courtship Rejected (Brain Output: 0.37)"
+        },
+        {
+            "year": 20,
+            "partner_id": 131,
+            "partner_class": "Wealthy",
+            "outcome": "Courtship Rejected (Brain Output: 0.37)"
+        },
+        {
+            "year": 21,
+            "partner_id": 155,
+            "partner_class": "Wealthy",
+            "outcome": "Courtship Rejected (Brain Output: 0.43)"
+        },
+        {
+            "year": 21,
+            "partner_id": 154,
+            "partner_class": "Wealthy",
+            "outcome": "Courtship Rejected (Brain Output: 0.43)"
+        },
+        {
+            "year": 21,
+            "partner_id": 131,
+            "partner_class": "Wealthy",
+            "outcome": "Courtship Rejected (Brain Output: 0.43)"
+        },
+        {
+            "year": 21,
+            "partner_id": 130,
+            "partner_class": "Wealthy",
+            "outcome": "Courtship Rejected (Brain Output: 0.43)"
+        },
+        {
+            "year": 22,
+            "partner_id": 155,
+            "partner_class": "Wealthy",
+            "outcome": "Courtship Rejected (Brain Output: 0.36)"
+        },
+        {
+            "year": 22,
+            "partner_id": 168,
+            "partner_class": "Wealthy",
+            "outcome": "Courtship Rejected (Brain Output: 0.36)"
+        },
+        {
+            "year": 22,
+            "partner_id": 131,
+            "partner_class": "Wealthy",
+            "outcome": "Courtship Rejected (Brain Output: 0.36)"
+        },
+        {
+            "year": 22,
+            "partner_id": 130,
+            "partner_class": "Wealthy",
+            "outcome": "Courtship Rejected (Brain Output: 0.36)"
+        },
+        {
+            "year": 23,
+            "partner_id": 130,
+            "partner_class": "Wealthy",
+            "outcome": "Courtship Rejected (Brain Output: 0.37)"
+        },
+        {
+            "year": 23,
+            "partner_id": 131,
+            "partner_class": "Wealthy",
+            "outcome": "Courtship Rejected (Brain Output: 0.37)"
+        },
+        {
+            "year": 23,
+            "partner_id": 179,
+            "partner_class": "Middle",
+            "outcome": "Courtship Rejected (Brain Output: 0.36)"
+        },
+        {
+            "year": 23,
+            "partner_id": 155,
+            "partner_class": "Wealthy",
+            "outcome": "Courtship Rejected (Brain Output: 0.37)"
+        }
+    ],
+    "brain_weights": [
+        -0.8076749860916147,
+        -0.23633182404190956,
+        1.612838757432169,
+        -0.27260660526464,
+        0.17307664518225874
+    ]
+}

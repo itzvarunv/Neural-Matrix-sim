@@ -1,0 +1,74 @@
+{
+    "agent_id": 50,
+    "gender": "F",
+    "final_status": "Dead",
+    "marital_regime": "Separate",
+    "cause_of_death": "Starvation / Exhaustion",
+    "year_of_death": 7,
+    "final_savings": -5.2,
+    "history": [
+        {
+            "year": 1,
+            "age": 18,
+            "location_sector": "Asia",
+            "energy": 90,
+            "savings_bank_balance": 32.08,
+            "social_class": "Poor",
+            "marital_regime": "None"
+        },
+        {
+            "year": 2,
+            "age": 19,
+            "location_sector": "Asia",
+            "energy": 65,
+            "savings_bank_balance": 25.66,
+            "social_class": "Poor",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 3,
+            "age": 20,
+            "location_sector": "Asia",
+            "energy": 75,
+            "savings_bank_balance": 4.24,
+            "social_class": "Poor",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 4,
+            "age": 21,
+            "location_sector": "Europe",
+            "energy": 45,
+            "savings_bank_balance": 6.12,
+            "social_class": "Poor",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 5,
+            "age": 22,
+            "location_sector": "Europe",
+            "energy": 35,
+            "savings_bank_balance": 6.8,
+            "social_class": "Poor",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 6,
+            "age": 23,
+            "location_sector": "Asia",
+            "energy": 9,
+            "savings_bank_balance": 2.8,
+            "social_class": "Poor",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 7,
+            "age": 24,
+            "location_sector": "Asia",
+            "energy": 3,
+            "savings_bank_balance": -1.2,
+            "social_class": "Poor",
+            "marital_regime": "Separate"
+        }
+    ]
+}

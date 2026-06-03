@@ -1,0 +1,72 @@
+{
+    "agent_id": 165,
+    "assigned_gender": "M",
+    "total_kids_count": 0,
+    "children_produced_ids": [],
+    "final_status": "Dead",
+    "cause_of_death": "Socio-Economic Disease Roll",
+    "year_of_death": 14,
+    "final_savings_balance": 83.01,
+    "final_energy_level": 90,
+    "travel_history_log": [
+        "Asia"
+    ],
+    "biometric_history_log": [
+        {
+            "year": 8,
+            "age": 1,
+            "location_sector": "Asia",
+            "energy": 90,
+            "savings_bank_balance": 48.01,
+            "social_class": "Middle"
+        },
+        {
+            "year": 9,
+            "age": 2,
+            "location_sector": "Asia",
+            "energy": 90,
+            "savings_bank_balance": 78.01,
+            "social_class": "Middle"
+        },
+        {
+            "year": 10,
+            "age": 3,
+            "location_sector": "Asia",
+            "energy": 90,
+            "savings_bank_balance": 93.01,
+            "social_class": "Middle"
+        },
+        {
+            "year": 11,
+            "age": 4,
+            "location_sector": "Asia",
+            "energy": 90,
+            "savings_bank_balance": 83.01,
+            "social_class": "Middle"
+        },
+        {
+            "year": 12,
+            "age": 5,
+            "location_sector": "Asia",
+            "energy": 90,
+            "savings_bank_balance": 53.01,
+            "social_class": "Middle"
+        },
+        {
+            "year": 13,
+            "age": 6,
+            "location_sector": "Asia",
+            "energy": 90,
+            "savings_bank_balance": 83.01,
+            "social_class": "Middle"
+        }
+    ],
+    "marriage_history": [],
+    "brain_weights": [
+        -0.8485339498026604,
+        -0.09722660518853074,
+        2.0642577671315707,
+        0.31977573683954263,
+        0.14285765884375223
+    ]
+}

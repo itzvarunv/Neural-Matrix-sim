@@ -1,0 +1,265 @@
+{
+    "agent_id": 176,
+    "assigned_gender": "F",
+    "total_kids_count": 3,
+    "children_produced_ids": [
+        233,
+        253,
+        257
+    ],
+    "final_status": "Alive",
+    "cause_of_death": "N/A",
+    "year_of_death": "N/A",
+    "final_savings_balance": 347.97,
+    "final_energy_level": 60,
+    "travel_history_log": [
+        "Asia",
+        "Europe",
+        "Africa"
+    ],
+    "biometric_history_log": [
+        {
+            "year": 10,
+            "age": 1,
+            "location_sector": "Asia",
+            "energy": 90,
+            "savings_bank_balance": 102.97,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 11,
+            "age": 2,
+            "location_sector": "Asia",
+            "energy": 90,
+            "savings_bank_balance": 117.97,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 12,
+            "age": 3,
+            "location_sector": "Asia",
+            "energy": 90,
+            "savings_bank_balance": 107.97,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 13,
+            "age": 4,
+            "location_sector": "Asia",
+            "energy": 90,
+            "savings_bank_balance": 122.97,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 14,
+            "age": 5,
+            "location_sector": "Asia",
+            "energy": 90,
+            "savings_bank_balance": 137.97,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 15,
+            "age": 6,
+            "location_sector": "Asia",
+            "energy": 90,
+            "savings_bank_balance": 167.97,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 16,
+            "age": 7,
+            "location_sector": "Asia",
+            "energy": 90,
+            "savings_bank_balance": 157.97,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 17,
+            "age": 8,
+            "location_sector": "Asia",
+            "energy": 90,
+            "savings_bank_balance": 147.97,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 18,
+            "age": 9,
+            "location_sector": "Asia",
+            "energy": 90,
+            "savings_bank_balance": 162.97,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 19,
+            "age": 10,
+            "location_sector": "Asia",
+            "energy": 90,
+            "savings_bank_balance": 152.97,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 20,
+            "age": 11,
+            "location_sector": "Asia",
+            "energy": 90,
+            "savings_bank_balance": 167.97,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 21,
+            "age": 12,
+            "location_sector": "Asia",
+            "energy": 90,
+            "savings_bank_balance": 197.97,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 22,
+            "age": 13,
+            "location_sector": "Asia",
+            "energy": 90,
+            "savings_bank_balance": 187.97,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 23,
+            "age": 14,
+            "location_sector": "Asia",
+            "energy": 90,
+            "savings_bank_balance": 177.97,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 24,
+            "age": 15,
+            "location_sector": "Asia",
+            "energy": 90,
+            "savings_bank_balance": 192.97,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 25,
+            "age": 16,
+            "location_sector": "Asia",
+            "energy": 90,
+            "savings_bank_balance": 182.97,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 26,
+            "age": 17,
+            "location_sector": "Asia",
+            "energy": 80,
+            "savings_bank_balance": 222.97,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 27,
+            "age": 18,
+            "location_sector": "Asia",
+            "energy": 80,
+            "savings_bank_balance": 212.97,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 28,
+            "age": 19,
+            "location_sector": "Asia",
+            "energy": 80,
+            "savings_bank_balance": 227.97,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 29,
+            "age": 20,
+            "location_sector": "Europe",
+            "energy": 70,
+            "savings_bank_balance": 287.97,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 30,
+            "age": 21,
+            "location_sector": "Africa",
+            "energy": 60,
+            "savings_bank_balance": 347.97,
+            "social_class": "Wealthy"
+        }
+    ],
+    "marriage_history": [
+        {
+            "year": 25,
+            "partner_id": 121,
+            "partner_class": "Middle",
+            "outcome": "Conception Successful"
+        },
+        {
+            "year": 26,
+            "partner_id": 125,
+            "partner_class": "Wealthy",
+            "outcome": "Biological Incompatibility Fail"
+        },
+        {
+            "year": 27,
+            "partner_id": 172,
+            "partner_class": "Wealthy",
+            "outcome": "Biological Incompatibility Fail"
+        },
+        {
+            "year": 27,
+            "partner_id": 182,
+            "partner_class": "Wealthy",
+            "outcome": "Biological Incompatibility Fail"
+        },
+        {
+            "year": 28,
+            "partner_id": 191,
+            "partner_class": "Wealthy",
+            "outcome": "Biological Incompatibility Fail"
+        },
+        {
+            "year": 28,
+            "partner_id": 172,
+            "partner_class": "Wealthy",
+            "outcome": "Biological Incompatibility Fail"
+        },
+        {
+            "year": 28,
+            "partner_id": 121,
+            "partner_class": "Middle",
+            "outcome": "Biological Incompatibility Fail"
+        },
+        {
+            "year": 28,
+            "partner_id": 186,
+            "partner_class": "Wealthy",
+            "outcome": "Conception Successful"
+        },
+        {
+            "year": 29,
+            "partner_id": 154,
+            "partner_class": "Wealthy",
+            "outcome": "Biological Incompatibility Fail"
+        },
+        {
+            "year": 29,
+            "partner_id": 155,
+            "partner_class": "Wealthy",
+            "outcome": "Conception Successful"
+        },
+        {
+            "year": 30,
+            "partner_id": 154,
+            "partner_class": "Wealthy",
+            "outcome": "Biological Incompatibility Fail"
+        }
+    ],
+    "brain_weights": [
+        -0.7406354909329622,
+        0.08100802413939728,
+        1.657825377172742,
+        -0.04457004677145332,
+        0.15051870410533963
+    ]
+}

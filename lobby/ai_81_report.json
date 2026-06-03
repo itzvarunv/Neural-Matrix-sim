@@ -1,0 +1,408 @@
+{
+    "agent_id": 81,
+    "assigned_gender": "F",
+    "total_kids_count": 3,
+    "children_produced_ids": [
+        175,
+        185,
+        188
+    ],
+    "final_status": "Alive",
+    "cause_of_death": "N/A",
+    "year_of_death": "N/A",
+    "final_savings_balance": 334.7,
+    "final_energy_level": 30,
+    "travel_history_log": [
+        "Europe",
+        "Asia"
+    ],
+    "biometric_history_log": [
+        {
+            "year": 1,
+            "age": 29,
+            "location_sector": "Asia",
+            "energy": 90,
+            "savings_bank_balance": 54.7,
+            "social_class": "Poor"
+        },
+        {
+            "year": 2,
+            "age": 30,
+            "location_sector": "Asia",
+            "energy": 90,
+            "savings_bank_balance": 44.7,
+            "social_class": "Middle"
+        },
+        {
+            "year": 3,
+            "age": 31,
+            "location_sector": "Asia",
+            "energy": 90,
+            "savings_bank_balance": 39.7,
+            "social_class": "Middle"
+        },
+        {
+            "year": 4,
+            "age": 32,
+            "location_sector": "Asia",
+            "energy": 90,
+            "savings_bank_balance": 29.7,
+            "social_class": "Middle"
+        },
+        {
+            "year": 5,
+            "age": 33,
+            "location_sector": "Asia",
+            "energy": 90,
+            "savings_bank_balance": 59.7,
+            "social_class": "Middle"
+        },
+        {
+            "year": 6,
+            "age": 34,
+            "location_sector": "Asia",
+            "energy": 90,
+            "savings_bank_balance": 49.7,
+            "social_class": "Middle"
+        },
+        {
+            "year": 7,
+            "age": 35,
+            "location_sector": "Asia",
+            "energy": 90,
+            "savings_bank_balance": 19.7,
+            "social_class": "Middle"
+        },
+        {
+            "year": 8,
+            "age": 36,
+            "location_sector": "Asia",
+            "energy": 90,
+            "savings_bank_balance": 49.7,
+            "social_class": "Middle"
+        },
+        {
+            "year": 9,
+            "age": 37,
+            "location_sector": "Asia",
+            "energy": 70,
+            "savings_bank_balance": 69.7,
+            "social_class": "Middle"
+        },
+        {
+            "year": 10,
+            "age": 38,
+            "location_sector": "Asia",
+            "energy": 70,
+            "savings_bank_balance": 59.7,
+            "social_class": "Middle"
+        },
+        {
+            "year": 11,
+            "age": 39,
+            "location_sector": "Asia",
+            "energy": 50,
+            "savings_bank_balance": 114.7,
+            "social_class": "Middle"
+        },
+        {
+            "year": 12,
+            "age": 40,
+            "location_sector": "Asia",
+            "energy": 30,
+            "savings_bank_balance": 129.7,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 13,
+            "age": 41,
+            "location_sector": "Asia",
+            "energy": 30,
+            "savings_bank_balance": 119.7,
+            "social_class": "Middle"
+        },
+        {
+            "year": 14,
+            "age": 42,
+            "location_sector": "Asia",
+            "energy": 30,
+            "savings_bank_balance": 134.7,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 15,
+            "age": 43,
+            "location_sector": "Asia",
+            "energy": 30,
+            "savings_bank_balance": 149.7,
+            "social_class": "Middle"
+        },
+        {
+            "year": 16,
+            "age": 44,
+            "location_sector": "Asia",
+            "energy": 30,
+            "savings_bank_balance": 179.7,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 17,
+            "age": 45,
+            "location_sector": "Asia",
+            "energy": 30,
+            "savings_bank_balance": 189.7,
+            "social_class": "Middle"
+        },
+        {
+            "year": 18,
+            "age": 46,
+            "location_sector": "Asia",
+            "energy": 30,
+            "savings_bank_balance": 219.7,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 19,
+            "age": 47,
+            "location_sector": "Asia",
+            "energy": 30,
+            "savings_bank_balance": 234.7,
+            "social_class": "Middle"
+        },
+        {
+            "year": 20,
+            "age": 48,
+            "location_sector": "Asia",
+            "energy": 30,
+            "savings_bank_balance": 249.7,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 21,
+            "age": 49,
+            "location_sector": "Asia",
+            "energy": 30,
+            "savings_bank_balance": 259.7,
+            "social_class": "Middle"
+        },
+        {
+            "year": 22,
+            "age": 50,
+            "location_sector": "Asia",
+            "energy": 30,
+            "savings_bank_balance": 274.7,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 23,
+            "age": 51,
+            "location_sector": "Asia",
+            "energy": 30,
+            "savings_bank_balance": 289.7,
+            "social_class": "Middle"
+        },
+        {
+            "year": 24,
+            "age": 52,
+            "location_sector": "Asia",
+            "energy": 30,
+            "savings_bank_balance": 279.7,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 25,
+            "age": 53,
+            "location_sector": "Asia",
+            "energy": 30,
+            "savings_bank_balance": 309.7,
+            "social_class": "Middle"
+        },
+        {
+            "year": 26,
+            "age": 54,
+            "location_sector": "Asia",
+            "energy": 30,
+            "savings_bank_balance": 299.7,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 27,
+            "age": 55,
+            "location_sector": "Asia",
+            "energy": 30,
+            "savings_bank_balance": 289.7,
+            "social_class": "Middle"
+        },
+        {
+            "year": 28,
+            "age": 56,
+            "location_sector": "Asia",
+            "energy": 30,
+            "savings_bank_balance": 304.7,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 29,
+            "age": 57,
+            "location_sector": "Asia",
+            "energy": 30,
+            "savings_bank_balance": 319.7,
+            "social_class": "Middle"
+        },
+        {
+            "year": 30,
+            "age": 58,
+            "location_sector": "Asia",
+            "energy": 30,
+            "savings_bank_balance": 334.7,
+            "social_class": "Wealthy"
+        }
+    ],
+    "marriage_history": [
+        {
+            "year": 2,
+            "partner_id": 106,
+            "partner_class": "Middle",
+            "outcome": "Courtship Rejected (Brain Output: 0.38)"
+        },
+        {
+            "year": 2,
+            "partner_id": 80,
+            "partner_class": "Middle",
+            "outcome": "Courtship Rejected (Brain Output: 0.38)"
+        },
+        {
+            "year": 3,
+            "partner_id": 50,
+            "partner_class": "Middle",
+            "outcome": "Courtship Rejected (Brain Output: 0.37)"
+        },
+        {
+            "year": 3,
+            "partner_id": 80,
+            "partner_class": "Middle",
+            "outcome": "Courtship Rejected (Brain Output: 0.37)"
+        },
+        {
+            "year": 3,
+            "partner_id": 96,
+            "partner_class": "Middle",
+            "outcome": "Courtship Rejected (Brain Output: 0.38)"
+        },
+        {
+            "year": 4,
+            "partner_id": 6,
+            "partner_class": "Middle",
+            "outcome": "Courtship Rejected (Brain Output: 0.39)"
+        },
+        {
+            "year": 4,
+            "partner_id": 50,
+            "partner_class": "Middle",
+            "outcome": "Courtship Rejected (Brain Output: 0.39)"
+        },
+        {
+            "year": 4,
+            "partner_id": 80,
+            "partner_class": "Middle",
+            "outcome": "Courtship Rejected (Brain Output: 0.4)"
+        },
+        {
+            "year": 4,
+            "partner_id": 17,
+            "partner_class": "Middle",
+            "outcome": "Courtship Rejected (Brain Output: 0.4)"
+        },
+        {
+            "year": 5,
+            "partner_id": 96,
+            "partner_class": "Middle",
+            "outcome": "Courtship Rejected (Brain Output: 0.39)"
+        },
+        {
+            "year": 5,
+            "partner_id": 50,
+            "partner_class": "Middle",
+            "outcome": "Courtship Rejected (Brain Output: 0.4)"
+        },
+        {
+            "year": 6,
+            "partner_id": 6,
+            "partner_class": "Middle",
+            "outcome": "Courtship Rejected (Brain Output: 0.42)"
+        },
+        {
+            "year": 6,
+            "partner_id": 17,
+            "partner_class": "Middle",
+            "outcome": "Courtship Rejected (Brain Output: 0.43)"
+        },
+        {
+            "year": 6,
+            "partner_id": 37,
+            "partner_class": "Middle",
+            "outcome": "Courtship Rejected (Brain Output: 0.43)"
+        },
+        {
+            "year": 7,
+            "partner_id": 6,
+            "partner_class": "Middle",
+            "outcome": "Courtship Rejected (Brain Output: 0.44)"
+        },
+        {
+            "year": 7,
+            "partner_id": 80,
+            "partner_class": "Middle",
+            "outcome": "Courtship Rejected (Brain Output: 0.44)"
+        },
+        {
+            "year": 8,
+            "partner_id": 106,
+            "partner_class": "Middle",
+            "outcome": "Conception Successful"
+        },
+        {
+            "year": 9,
+            "partner_id": 96,
+            "partner_class": "Middle",
+            "outcome": "Courtship Rejected (Brain Output: 0.48)"
+        },
+        {
+            "year": 9,
+            "partner_id": 2,
+            "partner_class": "Middle",
+            "outcome": "Courtship Rejected (Brain Output: 0.48)"
+        },
+        {
+            "year": 9,
+            "partner_id": 18,
+            "partner_class": "Middle",
+            "outcome": "Courtship Rejected (Brain Output: 0.48)"
+        },
+        {
+            "year": 10,
+            "partner_id": 2,
+            "partner_class": "Middle",
+            "outcome": "Courtship Rejected (Brain Output: 0.5)"
+        },
+        {
+            "year": 10,
+            "partner_id": 106,
+            "partner_class": "Middle",
+            "outcome": "Conception Successful"
+        },
+        {
+            "year": 11,
+            "partner_id": 6,
+            "partner_class": "Middle",
+            "outcome": "Conception Successful"
+        }
+    ],
+    "brain_weights": [
+        -0.8568525882008328,
+        -0.18936160987549053,
+        2.4622946412803595,
+        -0.44703468667370017,
+        -0.3260381850077584
+    ]
+}

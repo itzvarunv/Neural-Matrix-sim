@@ -1,0 +1,128 @@
+{
+    "agent_id": 201,
+    "assigned_gender": "F",
+    "total_kids_count": 0,
+    "children_produced_ids": [],
+    "final_status": "Alive",
+    "cause_of_death": "N/A",
+    "year_of_death": "N/A",
+    "final_savings_balance": 357.47,
+    "final_energy_level": 90,
+    "travel_history_log": [
+        "Africa"
+    ],
+    "biometric_history_log": [
+        {
+            "year": 18,
+            "age": 1,
+            "location_sector": "Africa",
+            "energy": 90,
+            "savings_bank_balance": 87.47,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 19,
+            "age": 2,
+            "location_sector": "Africa",
+            "energy": 90,
+            "savings_bank_balance": 102.47,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 20,
+            "age": 3,
+            "location_sector": "Africa",
+            "energy": 90,
+            "savings_bank_balance": 117.47,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 21,
+            "age": 4,
+            "location_sector": "Africa",
+            "energy": 90,
+            "savings_bank_balance": 147.47,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 22,
+            "age": 5,
+            "location_sector": "Africa",
+            "energy": 90,
+            "savings_bank_balance": 177.47,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 23,
+            "age": 6,
+            "location_sector": "Africa",
+            "energy": 90,
+            "savings_bank_balance": 192.47,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 24,
+            "age": 7,
+            "location_sector": "Africa",
+            "energy": 90,
+            "savings_bank_balance": 207.47,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 25,
+            "age": 8,
+            "location_sector": "Africa",
+            "energy": 90,
+            "savings_bank_balance": 222.47,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 26,
+            "age": 9,
+            "location_sector": "Africa",
+            "energy": 90,
+            "savings_bank_balance": 252.47,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 27,
+            "age": 10,
+            "location_sector": "Africa",
+            "energy": 90,
+            "savings_bank_balance": 282.47,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 28,
+            "age": 11,
+            "location_sector": "Africa",
+            "energy": 90,
+            "savings_bank_balance": 297.47,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 29,
+            "age": 12,
+            "location_sector": "Africa",
+            "energy": 90,
+            "savings_bank_balance": 327.47,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 30,
+            "age": 13,
+            "location_sector": "Africa",
+            "energy": 90,
+            "savings_bank_balance": 357.47,
+            "social_class": "Wealthy"
+        }
+    ],
+    "marriage_history": [],
+    "brain_weights": [
+        -0.7149721716403041,
+        0.07014394681076334,
+        1.7675761139562962,
+        0.031251163260431,
+        0.20027874604604257
+    ]
+}

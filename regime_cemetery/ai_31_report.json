@@ -1,0 +1,542 @@
+{
+    "agent_id": 31,
+    "gender": "M",
+    "final_status": "Dead",
+    "marital_regime": "None",
+    "cause_of_death": "Biological Limit (Old Age)",
+    "year_of_death": 59,
+    "final_savings": 79.9,
+    "history": [
+        {
+            "year": 1,
+            "age": 18,
+            "location_sector": "Europe",
+            "energy": 90,
+            "savings_bank_balance": 118.38,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 2,
+            "age": 19,
+            "location_sector": "Europe",
+            "energy": 80,
+            "savings_bank_balance": 124.46,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 3,
+            "age": 20,
+            "location_sector": "Europe",
+            "energy": 70,
+            "savings_bank_balance": 129.34,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 4,
+            "age": 21,
+            "location_sector": "Europe",
+            "energy": 60,
+            "savings_bank_balance": 133.02,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 5,
+            "age": 22,
+            "location_sector": "Europe",
+            "energy": 50,
+            "savings_bank_balance": 135.5,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 6,
+            "age": 23,
+            "location_sector": "Europe",
+            "energy": 75,
+            "savings_bank_balance": 124.78,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 7,
+            "age": 24,
+            "location_sector": "Europe",
+            "energy": 65,
+            "savings_bank_balance": 129.06,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 8,
+            "age": 25,
+            "location_sector": "Europe",
+            "energy": 55,
+            "savings_bank_balance": 132.14,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 9,
+            "age": 26,
+            "location_sector": "Europe",
+            "energy": 45,
+            "savings_bank_balance": 134.02,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 10,
+            "age": 27,
+            "location_sector": "Europe",
+            "energy": 70,
+            "savings_bank_balance": 122.7,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 11,
+            "age": 28,
+            "location_sector": "Europe",
+            "energy": 60,
+            "savings_bank_balance": 126.38,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 12,
+            "age": 29,
+            "location_sector": "Europe",
+            "energy": 50,
+            "savings_bank_balance": 128.86,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 13,
+            "age": 30,
+            "location_sector": "Europe",
+            "energy": 75,
+            "savings_bank_balance": 118.14,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 14,
+            "age": 31,
+            "location_sector": "Europe",
+            "energy": 65,
+            "savings_bank_balance": 122.42,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 15,
+            "age": 32,
+            "location_sector": "Europe",
+            "energy": 55,
+            "savings_bank_balance": 125.5,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 16,
+            "age": 33,
+            "location_sector": "Europe",
+            "energy": 45,
+            "savings_bank_balance": 127.38,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 17,
+            "age": 34,
+            "location_sector": "Europe",
+            "energy": 70,
+            "savings_bank_balance": 116.06,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 18,
+            "age": 35,
+            "location_sector": "Europe",
+            "energy": 60,
+            "savings_bank_balance": 119.74,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 19,
+            "age": 36,
+            "location_sector": "Europe",
+            "energy": 50,
+            "savings_bank_balance": 122.22,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 20,
+            "age": 37,
+            "location_sector": "Europe",
+            "energy": 75,
+            "savings_bank_balance": 111.5,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 21,
+            "age": 38,
+            "location_sector": "Europe",
+            "energy": 65,
+            "savings_bank_balance": 115.78,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 22,
+            "age": 39,
+            "location_sector": "Europe",
+            "energy": 55,
+            "savings_bank_balance": 118.86,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 23,
+            "age": 40,
+            "location_sector": "Europe",
+            "energy": 45,
+            "savings_bank_balance": 120.74,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 24,
+            "age": 41,
+            "location_sector": "Europe",
+            "energy": 70,
+            "savings_bank_balance": 109.42,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 25,
+            "age": 42,
+            "location_sector": "Europe",
+            "energy": 60,
+            "savings_bank_balance": 113.1,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 26,
+            "age": 43,
+            "location_sector": "Europe",
+            "energy": 50,
+            "savings_bank_balance": 115.58,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 27,
+            "age": 44,
+            "location_sector": "Europe",
+            "energy": 75,
+            "savings_bank_balance": 104.86,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 28,
+            "age": 45,
+            "location_sector": "Europe",
+            "energy": 65,
+            "savings_bank_balance": 109.14,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 29,
+            "age": 46,
+            "location_sector": "Europe",
+            "energy": 55,
+            "savings_bank_balance": 112.22,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 30,
+            "age": 47,
+            "location_sector": "Europe",
+            "energy": 45,
+            "savings_bank_balance": 114.1,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 31,
+            "age": 48,
+            "location_sector": "Europe",
+            "energy": 70,
+            "savings_bank_balance": 102.78,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 32,
+            "age": 49,
+            "location_sector": "Europe",
+            "energy": 60,
+            "savings_bank_balance": 106.46,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 33,
+            "age": 50,
+            "location_sector": "Europe",
+            "energy": 50,
+            "savings_bank_balance": 108.94,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 34,
+            "age": 51,
+            "location_sector": "Europe",
+            "energy": 75,
+            "savings_bank_balance": 98.22,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 35,
+            "age": 52,
+            "location_sector": "Europe",
+            "energy": 65,
+            "savings_bank_balance": 102.5,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 36,
+            "age": 53,
+            "location_sector": "Europe",
+            "energy": 55,
+            "savings_bank_balance": 105.58,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 37,
+            "age": 54,
+            "location_sector": "Europe",
+            "energy": 45,
+            "savings_bank_balance": 107.46,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 38,
+            "age": 55,
+            "location_sector": "Europe",
+            "energy": 70,
+            "savings_bank_balance": 96.14,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 39,
+            "age": 56,
+            "location_sector": "Europe",
+            "energy": 60,
+            "savings_bank_balance": 99.82,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 40,
+            "age": 57,
+            "location_sector": "Europe",
+            "energy": 50,
+            "savings_bank_balance": 102.3,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 41,
+            "age": 58,
+            "location_sector": "Europe",
+            "energy": 75,
+            "savings_bank_balance": 91.58,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 42,
+            "age": 59,
+            "location_sector": "Europe",
+            "energy": 65,
+            "savings_bank_balance": 95.86,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 43,
+            "age": 60,
+            "location_sector": "Europe",
+            "energy": 55,
+            "savings_bank_balance": 98.94,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 44,
+            "age": 61,
+            "location_sector": "Europe",
+            "energy": 45,
+            "savings_bank_balance": 100.82,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 45,
+            "age": 62,
+            "location_sector": "Europe",
+            "energy": 70,
+            "savings_bank_balance": 89.5,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 46,
+            "age": 63,
+            "location_sector": "Europe",
+            "energy": 60,
+            "savings_bank_balance": 93.18,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 47,
+            "age": 64,
+            "location_sector": "Europe",
+            "energy": 50,
+            "savings_bank_balance": 95.66,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 48,
+            "age": 65,
+            "location_sector": "Europe",
+            "energy": 75,
+            "savings_bank_balance": 84.94,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 49,
+            "age": 66,
+            "location_sector": "Europe",
+            "energy": 65,
+            "savings_bank_balance": 89.22,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 50,
+            "age": 67,
+            "location_sector": "Europe",
+            "energy": 55,
+            "savings_bank_balance": 92.3,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 51,
+            "age": 68,
+            "location_sector": "Europe",
+            "energy": 45,
+            "savings_bank_balance": 94.18,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 52,
+            "age": 69,
+            "location_sector": "Europe",
+            "energy": 70,
+            "savings_bank_balance": 82.86,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 53,
+            "age": 70,
+            "location_sector": "Europe",
+            "energy": 60,
+            "savings_bank_balance": 86.54,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 54,
+            "age": 71,
+            "location_sector": "Europe",
+            "energy": 50,
+            "savings_bank_balance": 89.02,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 55,
+            "age": 72,
+            "location_sector": "Europe",
+            "energy": 75,
+            "savings_bank_balance": 78.3,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 56,
+            "age": 73,
+            "location_sector": "Europe",
+            "energy": 65,
+            "savings_bank_balance": 82.58,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 57,
+            "age": 74,
+            "location_sector": "Europe",
+            "energy": 55,
+            "savings_bank_balance": 85.66,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 58,
+            "age": 75,
+            "location_sector": "Europe",
+            "energy": 45,
+            "savings_bank_balance": 87.54,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 59,
+            "age": 76,
+            "location_sector": "Europe",
+            "energy": 70,
+            "savings_bank_balance": 76.22,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        }
+    ]
+}

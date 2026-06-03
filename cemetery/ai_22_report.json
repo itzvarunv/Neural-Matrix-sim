@@ -1,0 +1,59 @@
+{
+    "agent_id": 22,
+    "assigned_gender": "F",
+    "total_kids_count": 0,
+    "children_produced_ids": [],
+    "final_status": "Dead",
+    "cause_of_death": "Starvation / Exhaustion",
+    "year_of_death": 4,
+    "final_savings_balance": 68.61,
+    "final_energy_level": 0,
+    "travel_history_log": [
+        "Europe",
+        "Asia",
+        "Europe",
+        "Africa",
+        "Europe"
+    ],
+    "biometric_history_log": [
+        {
+            "year": 1,
+            "age": 36,
+            "location_sector": "Asia",
+            "energy": 90,
+            "savings_bank_balance": 33.61,
+            "social_class": "Poor"
+        },
+        {
+            "year": 2,
+            "age": 37,
+            "location_sector": "Europe",
+            "energy": 42,
+            "savings_bank_balance": 58.61,
+            "social_class": "Middle"
+        },
+        {
+            "year": 3,
+            "age": 38,
+            "location_sector": "Africa",
+            "energy": 42,
+            "savings_bank_balance": 68.61,
+            "social_class": "Middle"
+        }
+    ],
+    "marriage_history": [
+        {
+            "year": 3,
+            "partner_id": 111,
+            "partner_class": "Middle",
+            "outcome": "Biological Incompatibility Fail"
+        }
+    ],
+    "brain_weights": [
+        -0.5339745542683082,
+        0.21131059084284082,
+        1.9419121766274943,
+        -0.21988822694462873,
+        0.325091555088287
+    ]
+}

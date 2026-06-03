@@ -1,0 +1,56 @@
+{
+    "agent_id": 241,
+    "assigned_gender": "F",
+    "total_kids_count": 0,
+    "children_produced_ids": [],
+    "final_status": "Alive",
+    "cause_of_death": "N/A",
+    "year_of_death": "N/A",
+    "final_savings_balance": 126.09,
+    "final_energy_level": 90,
+    "travel_history_log": [
+        "Asia"
+    ],
+    "biometric_history_log": [
+        {
+            "year": 27,
+            "age": 1,
+            "location_sector": "Asia",
+            "energy": 90,
+            "savings_bank_balance": 66.09,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 28,
+            "age": 2,
+            "location_sector": "Asia",
+            "energy": 90,
+            "savings_bank_balance": 96.09,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 29,
+            "age": 3,
+            "location_sector": "Asia",
+            "energy": 90,
+            "savings_bank_balance": 111.09,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 30,
+            "age": 4,
+            "location_sector": "Asia",
+            "energy": 90,
+            "savings_bank_balance": 126.09,
+            "social_class": "Wealthy"
+        }
+    ],
+    "marriage_history": [],
+    "brain_weights": [
+        -0.7187820018008325,
+        0.06657771280302298,
+        1.766727541499277,
+        0.010554927172524056,
+        0.06073489627630225
+    ]
+}

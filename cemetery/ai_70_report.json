@@ -1,0 +1,24 @@
+{
+    "agent_id": 70,
+    "assigned_gender": "F",
+    "total_kids_count": 0,
+    "children_produced_ids": [],
+    "final_status": "Dead",
+    "cause_of_death": "Socio-Economic Disease Roll",
+    "year_of_death": 1,
+    "final_savings_balance": 52.79699092391843,
+    "final_energy_level": 90,
+    "travel_history_log": [
+        "Europe",
+        "Asia"
+    ],
+    "biometric_history_log": [],
+    "marriage_history": [],
+    "brain_weights": [
+        -0.712535319502212,
+        0.30871767066136746,
+        2.8192366884786284,
+        0.09177667615060914,
+        -0.1620605499392458
+    ]
+}

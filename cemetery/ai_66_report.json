@@ -1,0 +1,100 @@
+{
+    "agent_id": 66,
+    "assigned_gender": "F",
+    "total_kids_count": 1,
+    "children_produced_ids": [
+        143
+    ],
+    "final_status": "Dead",
+    "cause_of_death": "Socio-Economic Disease Roll",
+    "year_of_death": 4,
+    "final_savings_balance": 22.36,
+    "final_energy_level": 70,
+    "travel_history_log": [
+        "Europe",
+        "Asia"
+    ],
+    "biometric_history_log": [
+        {
+            "year": 1,
+            "age": 19,
+            "location_sector": "Asia",
+            "energy": 90,
+            "savings_bank_balance": 17.36,
+            "social_class": "Poor"
+        },
+        {
+            "year": 2,
+            "age": 20,
+            "location_sector": "Asia",
+            "energy": 90,
+            "savings_bank_balance": 7.36,
+            "social_class": "Middle"
+        },
+        {
+            "year": 3,
+            "age": 21,
+            "location_sector": "Asia",
+            "energy": 90,
+            "savings_bank_balance": 22.36,
+            "social_class": "Middle"
+        }
+    ],
+    "marriage_history": [
+        {
+            "year": 2,
+            "partner_id": 37,
+            "partner_class": "Middle",
+            "outcome": "Courtship Rejected (Brain Output: 0.49)"
+        },
+        {
+            "year": 2,
+            "partner_id": 18,
+            "partner_class": "Middle",
+            "outcome": "Courtship Rejected (Brain Output: 0.5)"
+        },
+        {
+            "year": 2,
+            "partner_id": 2,
+            "partner_class": "Middle",
+            "outcome": "Courtship Rejected (Brain Output: 0.5)"
+        },
+        {
+            "year": 3,
+            "partner_id": 50,
+            "partner_class": "Middle",
+            "outcome": "Courtship Rejected (Brain Output: 0.49)"
+        },
+        {
+            "year": 3,
+            "partner_id": 80,
+            "partner_class": "Middle",
+            "outcome": "Courtship Rejected (Brain Output: 0.49)"
+        },
+        {
+            "year": 3,
+            "partner_id": 17,
+            "partner_class": "Middle",
+            "outcome": "Courtship Rejected (Brain Output: 0.5)"
+        },
+        {
+            "year": 3,
+            "partner_id": 96,
+            "partner_class": "Middle",
+            "outcome": "Courtship Rejected (Brain Output: 0.5)"
+        },
+        {
+            "year": 3,
+            "partner_id": 18,
+            "partner_class": "Middle",
+            "outcome": "Conception Successful"
+        }
+    ],
+    "brain_weights": [
+        -0.321297775036647,
+        0.08619407483018729,
+        1.6523125971872619,
+        -0.11709350838528276,
+        -0.2861032449772356
+    ]
+}

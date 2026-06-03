@@ -1,0 +1,175 @@
+{
+    "agent_id": 71,
+    "assigned_gender": "F",
+    "total_kids_count": 2,
+    "children_produced_ids": [
+        133,
+        144
+    ],
+    "final_status": "Dead",
+    "cause_of_death": "Socio-Economic Disease Roll",
+    "year_of_death": 16,
+    "final_savings_balance": 23.3,
+    "final_energy_level": 10,
+    "travel_history_log": [
+        "Europe",
+        "Asia",
+        "Europe",
+        "Africa"
+    ],
+    "biometric_history_log": [
+        {
+            "year": 1,
+            "age": 39,
+            "location_sector": "Asia",
+            "energy": 90,
+            "savings_bank_balance": 23.3,
+            "social_class": "Poor"
+        },
+        {
+            "year": 2,
+            "age": 40,
+            "location_sector": "Europe",
+            "energy": 60,
+            "savings_bank_balance": 33.3,
+            "social_class": "Middle"
+        },
+        {
+            "year": 3,
+            "age": 41,
+            "location_sector": "Africa",
+            "energy": 40,
+            "savings_bank_balance": 68.3,
+            "social_class": "Middle"
+        },
+        {
+            "year": 4,
+            "age": 42,
+            "location_sector": "Africa",
+            "energy": 20,
+            "savings_bank_balance": 88.3,
+            "social_class": "Poor"
+        },
+        {
+            "year": 5,
+            "age": 43,
+            "location_sector": "Africa",
+            "energy": 20,
+            "savings_bank_balance": 58.3,
+            "social_class": "Poor"
+        },
+        {
+            "year": 6,
+            "age": 44,
+            "location_sector": "Africa",
+            "energy": 20,
+            "savings_bank_balance": 48.3,
+            "social_class": "Poor"
+        },
+        {
+            "year": 7,
+            "age": 45,
+            "location_sector": "Africa",
+            "energy": 20,
+            "savings_bank_balance": 18.3,
+            "social_class": "Poor"
+        },
+        {
+            "year": 8,
+            "age": 46,
+            "location_sector": "Africa",
+            "energy": 20,
+            "savings_bank_balance": 33.3,
+            "social_class": "Poor"
+        },
+        {
+            "year": 9,
+            "age": 47,
+            "location_sector": "Africa",
+            "energy": 20,
+            "savings_bank_balance": 28.3,
+            "social_class": "Poor"
+        },
+        {
+            "year": 10,
+            "age": 48,
+            "location_sector": "Africa",
+            "energy": 20,
+            "savings_bank_balance": 18.3,
+            "social_class": "Poor"
+        },
+        {
+            "year": 11,
+            "age": 49,
+            "location_sector": "Africa",
+            "energy": 20,
+            "savings_bank_balance": 8.3,
+            "social_class": "Poor"
+        },
+        {
+            "year": 12,
+            "age": 50,
+            "location_sector": "Africa",
+            "energy": 20,
+            "savings_bank_balance": 3.3,
+            "social_class": "Poor"
+        },
+        {
+            "year": 13,
+            "age": 51,
+            "location_sector": "Africa",
+            "energy": 20,
+            "savings_bank_balance": -6.7,
+            "social_class": "Poor"
+        },
+        {
+            "year": 14,
+            "age": 52,
+            "location_sector": "Africa",
+            "energy": 10,
+            "savings_bank_balance": 8.3,
+            "social_class": "Poor"
+        },
+        {
+            "year": 15,
+            "age": 53,
+            "location_sector": "Africa",
+            "energy": 10,
+            "savings_bank_balance": 23.3,
+            "social_class": "Poor"
+        }
+    ],
+    "marriage_history": [
+        {
+            "year": 1,
+            "partner_id": 6,
+            "partner_class": "Poor",
+            "outcome": "Biological Incompatibility Fail"
+        },
+        {
+            "year": 1,
+            "partner_id": 17,
+            "partner_class": "Poor",
+            "outcome": "Biological Incompatibility Fail"
+        },
+        {
+            "year": 2,
+            "partner_id": 93,
+            "partner_class": "Middle",
+            "outcome": "Conception Successful"
+        },
+        {
+            "year": 3,
+            "partner_id": 39,
+            "partner_class": "Middle",
+            "outcome": "Conception Successful"
+        }
+    ],
+    "brain_weights": [
+        -0.41974240737422597,
+        -0.5896317556062702,
+        2.871150502890036,
+        0.01881342125175245,
+        0.40741609110293164
+    ]
+}

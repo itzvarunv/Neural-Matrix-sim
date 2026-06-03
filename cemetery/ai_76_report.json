@@ -1,0 +1,41 @@
+{
+    "agent_id": 76,
+    "assigned_gender": "M",
+    "total_kids_count": 0,
+    "children_produced_ids": [],
+    "final_status": "Dead",
+    "cause_of_death": "Socio-Economic Disease Roll",
+    "year_of_death": 3,
+    "final_savings_balance": 36.25,
+    "final_energy_level": 90,
+    "travel_history_log": [
+        "Europe",
+        "Asia"
+    ],
+    "biometric_history_log": [
+        {
+            "year": 1,
+            "age": 28,
+            "location_sector": "Asia",
+            "energy": 90,
+            "savings_bank_balance": 46.25,
+            "social_class": "Poor"
+        },
+        {
+            "year": 2,
+            "age": 29,
+            "location_sector": "Asia",
+            "energy": 90,
+            "savings_bank_balance": 36.25,
+            "social_class": "Middle"
+        }
+    ],
+    "marriage_history": [],
+    "brain_weights": [
+        -0.8815824552032607,
+        0.16968434653423517,
+        1.5609960521960984,
+        0.08680774700208271,
+        -0.47445060486182167
+    ]
+}

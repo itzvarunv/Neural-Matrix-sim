@@ -1,0 +1,104 @@
+{
+    "agent_assigned_gender": "F",
+    "total_kids_count": 4,
+    "children_produced_ids": [
+        123,
+        124,
+        125,
+        126
+    ],
+    "final_status": "Dead",
+    "cause_of_death": "Energy Exhaustion (Overcrowding / Starvation)",
+    "year_of_death": 5,
+    "final_savings_balance": 0.0,
+    "final_energy_level": 10,
+    "biometric_history_log": [
+        {
+            "year": 1,
+            "age": 18,
+            "location_sector": "Europe",
+            "energy": 100,
+            "savings_bank_balance": 0.0,
+            "total_children_so_far": 0
+        },
+        {
+            "year": 2,
+            "age": 19,
+            "location_sector": "Europe",
+            "energy": 69,
+            "savings_bank_balance": -5.0,
+            "total_children_so_far": 1
+        },
+        {
+            "year": 3,
+            "age": 20,
+            "location_sector": "Europe",
+            "energy": 40,
+            "savings_bank_balance": 10.0,
+            "total_children_so_far": 2
+        },
+        {
+            "year": 4,
+            "age": 21,
+            "location_sector": "Europe",
+            "energy": 14,
+            "savings_bank_balance": 5.0,
+            "total_children_so_far": 3
+        },
+        {
+            "year": 5,
+            "age": 22,
+            "location_sector": "Europe",
+            "energy": 10,
+            "savings_bank_balance": 0.0,
+            "total_children_so_far": 4
+        }
+    ],
+    "courtship_rejections": [],
+    "marriage_history": [
+        {
+            "year": 1,
+            "ai_age": 19,
+            "partner_id": 68,
+            "partner_gender": "M",
+            "partner_class": "Middle",
+            "partner_savings": -5.0,
+            "ai_energy_at_time": 89,
+            "ai_wallet_at_time": -5.0,
+            "marriage_outcome": "Successful Union"
+        },
+        {
+            "year": 2,
+            "ai_age": 20,
+            "partner_id": 8,
+            "partner_gender": "M",
+            "partner_class": "Middle",
+            "partner_savings": 5.0,
+            "ai_energy_at_time": 60,
+            "ai_wallet_at_time": 10.0,
+            "marriage_outcome": "Successful Union"
+        },
+        {
+            "year": 3,
+            "ai_age": 21,
+            "partner_id": 53,
+            "partner_gender": "M",
+            "partner_class": "Middle",
+            "partner_savings": 20.0,
+            "ai_energy_at_time": 34,
+            "ai_wallet_at_time": 5.0,
+            "marriage_outcome": "Successful Union"
+        },
+        {
+            "year": 4,
+            "ai_age": 22,
+            "partner_id": 47,
+            "partner_gender": "M",
+            "partner_class": "Middle",
+            "partner_savings": 15.0,
+            "ai_energy_at_time": 6,
+            "ai_wallet_at_time": 0.0,
+            "marriage_outcome": "Successful Union"
+        }
+    ]
+}

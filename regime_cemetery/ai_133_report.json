@@ -1,0 +1,127 @@
+{
+    "agent_id": 133,
+    "gender": "F",
+    "final_status": "Dead",
+    "marital_regime": "Separate",
+    "cause_of_death": "Starvation / Exhaustion",
+    "year_of_death": 14,
+    "final_savings": -23.0,
+    "history": [
+        {
+            "year": 3,
+            "age": 0,
+            "location_sector": "Africa",
+            "energy": 90,
+            "savings_bank_balance": 25.0,
+            "social_class": "Poor",
+            "marital_regime": "None"
+        },
+        {
+            "year": 4,
+            "age": 1,
+            "location_sector": "Africa",
+            "energy": 84,
+            "savings_bank_balance": 21.0,
+            "social_class": "Poor",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 5,
+            "age": 2,
+            "location_sector": "Africa",
+            "energy": 78,
+            "savings_bank_balance": 17.0,
+            "social_class": "Poor",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 5,
+            "event": "\ud83d\udc94 Neural separation triggered. Left Agent 132."
+        },
+        {
+            "year": 6,
+            "age": 3,
+            "location_sector": "Africa",
+            "energy": 72,
+            "savings_bank_balance": 13.0,
+            "social_class": "Poor",
+            "marital_regime": "None"
+        },
+        {
+            "year": 7,
+            "age": 4,
+            "location_sector": "Africa",
+            "energy": 66,
+            "savings_bank_balance": 9.0,
+            "social_class": "Poor",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 8,
+            "age": 5,
+            "location_sector": "Africa",
+            "energy": 60,
+            "savings_bank_balance": 5.0,
+            "social_class": "Poor",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 9,
+            "age": 6,
+            "location_sector": "Africa",
+            "energy": 54,
+            "savings_bank_balance": 1.0,
+            "social_class": "Poor",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 9,
+            "event": "\ud83d\udc94 Neural separation triggered. Left Agent 132."
+        },
+        {
+            "year": 10,
+            "age": 7,
+            "location_sector": "Africa",
+            "energy": 48,
+            "savings_bank_balance": -3.0,
+            "social_class": "Poor",
+            "marital_regime": "None"
+        },
+        {
+            "year": 11,
+            "age": 8,
+            "location_sector": "Africa",
+            "energy": 42,
+            "savings_bank_balance": -7.0,
+            "social_class": "Poor",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 12,
+            "age": 9,
+            "location_sector": "Africa",
+            "energy": 36,
+            "savings_bank_balance": -11.0,
+            "social_class": "Poor",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 13,
+            "age": 10,
+            "location_sector": "Africa",
+            "energy": 30,
+            "savings_bank_balance": -15.0,
+            "social_class": "Poor",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 14,
+            "age": 11,
+            "location_sector": "Africa",
+            "energy": 24,
+            "savings_bank_balance": -19.0,
+            "social_class": "Poor",
+            "marital_regime": "Separate"
+        }
+    ]
+}

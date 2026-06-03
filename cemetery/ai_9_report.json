@@ -1,0 +1,166 @@
+{
+    "agent_id": 9,
+    "assigned_gender": "M",
+    "total_kids_count": 1,
+    "children_produced_ids": [
+        129
+    ],
+    "final_status": "Dead",
+    "cause_of_death": "Socio-Economic Disease Roll",
+    "year_of_death": 18,
+    "final_savings_balance": 15.55,
+    "final_energy_level": 3,
+    "travel_history_log": [
+        "Europe",
+        "Asia",
+        "Europe",
+        "Africa",
+        "Europe"
+    ],
+    "biometric_history_log": [
+        {
+            "year": 1,
+            "age": 43,
+            "location_sector": "Asia",
+            "energy": 90,
+            "savings_bank_balance": 60.55,
+            "social_class": "Poor"
+        },
+        {
+            "year": 2,
+            "age": 44,
+            "location_sector": "Europe",
+            "energy": 56,
+            "savings_bank_balance": 45.55,
+            "social_class": "Middle"
+        },
+        {
+            "year": 3,
+            "age": 45,
+            "location_sector": "Africa",
+            "energy": 46,
+            "savings_bank_balance": 5.55,
+            "social_class": "Middle"
+        },
+        {
+            "year": 4,
+            "age": 46,
+            "location_sector": "Europe",
+            "energy": 3,
+            "savings_bank_balance": 30.55,
+            "social_class": "Middle"
+        },
+        {
+            "year": 5,
+            "age": 47,
+            "location_sector": "Europe",
+            "energy": 3,
+            "savings_bank_balance": 40.55,
+            "social_class": "Poor"
+        },
+        {
+            "year": 6,
+            "age": 48,
+            "location_sector": "Europe",
+            "energy": 3,
+            "savings_bank_balance": 55.55,
+            "social_class": "Poor"
+        },
+        {
+            "year": 7,
+            "age": 49,
+            "location_sector": "Europe",
+            "energy": 3,
+            "savings_bank_balance": 65.55,
+            "social_class": "Poor"
+        },
+        {
+            "year": 8,
+            "age": 50,
+            "location_sector": "Europe",
+            "energy": 3,
+            "savings_bank_balance": 75.55,
+            "social_class": "Poor"
+        },
+        {
+            "year": 9,
+            "age": 51,
+            "location_sector": "Europe",
+            "energy": 3,
+            "savings_bank_balance": 45.55,
+            "social_class": "Poor"
+        },
+        {
+            "year": 10,
+            "age": 52,
+            "location_sector": "Europe",
+            "energy": 3,
+            "savings_bank_balance": 15.55,
+            "social_class": "Poor"
+        },
+        {
+            "year": 11,
+            "age": 53,
+            "location_sector": "Europe",
+            "energy": 3,
+            "savings_bank_balance": 25.55,
+            "social_class": "Poor"
+        },
+        {
+            "year": 12,
+            "age": 54,
+            "location_sector": "Europe",
+            "energy": 3,
+            "savings_bank_balance": 15.55,
+            "social_class": "Poor"
+        },
+        {
+            "year": 13,
+            "age": 55,
+            "location_sector": "Europe",
+            "energy": 3,
+            "savings_bank_balance": 5.55,
+            "social_class": "Poor"
+        },
+        {
+            "year": 14,
+            "age": 56,
+            "location_sector": "Europe",
+            "energy": 3,
+            "savings_bank_balance": 0.55,
+            "social_class": "Poor"
+        },
+        {
+            "year": 15,
+            "age": 57,
+            "location_sector": "Europe",
+            "energy": 3,
+            "savings_bank_balance": -9.45,
+            "social_class": "Poor"
+        },
+        {
+            "year": 16,
+            "age": 58,
+            "location_sector": "Europe",
+            "energy": 3,
+            "savings_bank_balance": 0.55,
+            "social_class": "Poor"
+        },
+        {
+            "year": 17,
+            "age": 59,
+            "location_sector": "Europe",
+            "energy": 3,
+            "savings_bank_balance": 15.55,
+            "social_class": "Poor"
+        }
+    ],
+    "marriage_history": [],
+    "brain_weights": [
+        -0.44727002041125763,
+        -0.4545139113017743,
+        2.051925444182822,
+        0.27843613119203914,
+        0.11101588567990461
+    ]
+}

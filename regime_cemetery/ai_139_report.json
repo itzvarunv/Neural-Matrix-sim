@@ -1,0 +1,150 @@
+{
+    "agent_id": 139,
+    "gender": "M",
+    "final_status": "Dead",
+    "marital_regime": "Communist",
+    "cause_of_death": "Starvation / Exhaustion",
+    "year_of_death": 18,
+    "final_savings": -18.23,
+    "history": [
+        {
+            "year": 4,
+            "age": 0,
+            "location_sector": "Africa",
+            "energy": 90,
+            "savings_bank_balance": 25.0,
+            "social_class": "Poor",
+            "marital_regime": "None"
+        },
+        {
+            "year": 5,
+            "age": 1,
+            "location_sector": "Africa",
+            "energy": 84,
+            "savings_bank_balance": 21.0,
+            "social_class": "Poor",
+            "marital_regime": "None"
+        },
+        {
+            "year": 6,
+            "age": 2,
+            "location_sector": "Africa",
+            "energy": 78,
+            "savings_bank_balance": 17.0,
+            "social_class": "Poor",
+            "marital_regime": "None"
+        },
+        {
+            "year": 7,
+            "age": 3,
+            "location_sector": "Africa",
+            "energy": 72,
+            "savings_bank_balance": 13.0,
+            "social_class": "Poor",
+            "marital_regime": "None"
+        },
+        {
+            "year": 8,
+            "age": 4,
+            "location_sector": "Africa",
+            "energy": 66,
+            "savings_bank_balance": 9.0,
+            "social_class": "Poor",
+            "marital_regime": "None"
+        },
+        {
+            "year": 9,
+            "age": 5,
+            "location_sector": "Africa",
+            "energy": 60,
+            "savings_bank_balance": 5.0,
+            "social_class": "Poor",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 10,
+            "age": 6,
+            "location_sector": "Africa",
+            "energy": 54,
+            "savings_bank_balance": 1.0,
+            "social_class": "Poor",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 11,
+            "age": 7,
+            "location_sector": "Africa",
+            "energy": 48,
+            "savings_bank_balance": -3.0,
+            "social_class": "Poor",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 12,
+            "age": 8,
+            "location_sector": "Africa",
+            "energy": 42,
+            "savings_bank_balance": -7.0,
+            "social_class": "Poor",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 12,
+            "event": "\ud83d\udc94 Neural separation triggered. Left Agent 78."
+        },
+        {
+            "year": 13,
+            "age": 9,
+            "location_sector": "Africa",
+            "energy": 36,
+            "savings_bank_balance": -11.0,
+            "social_class": "Poor",
+            "marital_regime": "None"
+        },
+        {
+            "year": 14,
+            "age": 10,
+            "location_sector": "Africa",
+            "energy": 30,
+            "savings_bank_balance": -15.0,
+            "social_class": "Poor",
+            "marital_regime": "None"
+        },
+        {
+            "year": 15,
+            "age": 11,
+            "location_sector": "Africa",
+            "energy": 24,
+            "savings_bank_balance": -19.0,
+            "social_class": "Poor",
+            "marital_regime": "None"
+        },
+        {
+            "year": 16,
+            "age": 12,
+            "location_sector": "Africa",
+            "energy": 18,
+            "savings_bank_balance": -6.23,
+            "social_class": "Poor",
+            "marital_regime": "Communist"
+        },
+        {
+            "year": 17,
+            "age": 13,
+            "location_sector": "Africa",
+            "energy": 12,
+            "savings_bank_balance": -10.23,
+            "social_class": "Poor",
+            "marital_regime": "Communist"
+        },
+        {
+            "year": 18,
+            "age": 14,
+            "location_sector": "Africa",
+            "energy": 6,
+            "savings_bank_balance": -14.23,
+            "social_class": "Poor",
+            "marital_regime": "Communist"
+        }
+    ]
+}

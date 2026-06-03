@@ -1,0 +1,299 @@
+{
+    "agent_id": 114,
+    "assigned_gender": "F",
+    "total_kids_count": 1,
+    "children_produced_ids": [
+        157
+    ],
+    "final_status": "Alive",
+    "cause_of_death": "N/A",
+    "year_of_death": "N/A",
+    "final_savings_balance": 241.4,
+    "final_energy_level": 35,
+    "travel_history_log": [
+        "Africa",
+        "Europe",
+        "Africa"
+    ],
+    "biometric_history_log": [
+        {
+            "year": 1,
+            "age": 27,
+            "location_sector": "Africa",
+            "energy": 90,
+            "savings_bank_balance": 66.4,
+            "social_class": "Poor"
+        },
+        {
+            "year": 2,
+            "age": 28,
+            "location_sector": "Africa",
+            "energy": 90,
+            "savings_bank_balance": 36.4,
+            "social_class": "Middle"
+        },
+        {
+            "year": 3,
+            "age": 29,
+            "location_sector": "Africa",
+            "energy": 90,
+            "savings_bank_balance": 6.4,
+            "social_class": "Middle"
+        },
+        {
+            "year": 4,
+            "age": 30,
+            "location_sector": "Europe",
+            "energy": 55,
+            "savings_bank_balance": 16.4,
+            "social_class": "Middle"
+        },
+        {
+            "year": 5,
+            "age": 31,
+            "location_sector": "Africa",
+            "energy": 55,
+            "savings_bank_balance": 26.4,
+            "social_class": "Middle"
+        },
+        {
+            "year": 6,
+            "age": 32,
+            "location_sector": "Africa",
+            "energy": 35,
+            "savings_bank_balance": 81.4,
+            "social_class": "Middle"
+        },
+        {
+            "year": 7,
+            "age": 33,
+            "location_sector": "Africa",
+            "energy": 35,
+            "savings_bank_balance": 91.4,
+            "social_class": "Middle"
+        },
+        {
+            "year": 8,
+            "age": 34,
+            "location_sector": "Africa",
+            "energy": 35,
+            "savings_bank_balance": 81.4,
+            "social_class": "Middle"
+        },
+        {
+            "year": 9,
+            "age": 35,
+            "location_sector": "Africa",
+            "energy": 35,
+            "savings_bank_balance": 111.4,
+            "social_class": "Middle"
+        },
+        {
+            "year": 10,
+            "age": 36,
+            "location_sector": "Africa",
+            "energy": 35,
+            "savings_bank_balance": 101.4,
+            "social_class": "Middle"
+        },
+        {
+            "year": 11,
+            "age": 37,
+            "location_sector": "Africa",
+            "energy": 35,
+            "savings_bank_balance": 91.4,
+            "social_class": "Middle"
+        },
+        {
+            "year": 12,
+            "age": 38,
+            "location_sector": "Africa",
+            "energy": 35,
+            "savings_bank_balance": 81.4,
+            "social_class": "Middle"
+        },
+        {
+            "year": 13,
+            "age": 39,
+            "location_sector": "Africa",
+            "energy": 35,
+            "savings_bank_balance": 111.4,
+            "social_class": "Middle"
+        },
+        {
+            "year": 14,
+            "age": 40,
+            "location_sector": "Africa",
+            "energy": 35,
+            "savings_bank_balance": 126.4,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 15,
+            "age": 41,
+            "location_sector": "Africa",
+            "energy": 35,
+            "savings_bank_balance": 116.4,
+            "social_class": "Middle"
+        },
+        {
+            "year": 16,
+            "age": 42,
+            "location_sector": "Africa",
+            "energy": 35,
+            "savings_bank_balance": 86.4,
+            "social_class": "Middle"
+        },
+        {
+            "year": 17,
+            "age": 43,
+            "location_sector": "Africa",
+            "energy": 35,
+            "savings_bank_balance": 101.4,
+            "social_class": "Middle"
+        },
+        {
+            "year": 18,
+            "age": 44,
+            "location_sector": "Africa",
+            "energy": 35,
+            "savings_bank_balance": 131.4,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 19,
+            "age": 45,
+            "location_sector": "Africa",
+            "energy": 35,
+            "savings_bank_balance": 146.4,
+            "social_class": "Middle"
+        },
+        {
+            "year": 20,
+            "age": 46,
+            "location_sector": "Africa",
+            "energy": 35,
+            "savings_bank_balance": 161.4,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 21,
+            "age": 47,
+            "location_sector": "Africa",
+            "energy": 35,
+            "savings_bank_balance": 151.4,
+            "social_class": "Middle"
+        },
+        {
+            "year": 22,
+            "age": 48,
+            "location_sector": "Africa",
+            "energy": 35,
+            "savings_bank_balance": 181.4,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 23,
+            "age": 49,
+            "location_sector": "Africa",
+            "energy": 35,
+            "savings_bank_balance": 196.4,
+            "social_class": "Middle"
+        },
+        {
+            "year": 24,
+            "age": 50,
+            "location_sector": "Africa",
+            "energy": 35,
+            "savings_bank_balance": 211.4,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 25,
+            "age": 51,
+            "location_sector": "Africa",
+            "energy": 35,
+            "savings_bank_balance": 241.4,
+            "social_class": "Middle"
+        },
+        {
+            "year": 26,
+            "age": 52,
+            "location_sector": "Africa",
+            "energy": 35,
+            "savings_bank_balance": 231.4,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 27,
+            "age": 53,
+            "location_sector": "Africa",
+            "energy": 35,
+            "savings_bank_balance": 226.4,
+            "social_class": "Middle"
+        },
+        {
+            "year": 28,
+            "age": 54,
+            "location_sector": "Africa",
+            "energy": 35,
+            "savings_bank_balance": 256.4,
+            "social_class": "Wealthy"
+        },
+        {
+            "year": 29,
+            "age": 55,
+            "location_sector": "Africa",
+            "energy": 35,
+            "savings_bank_balance": 226.4,
+            "social_class": "Middle"
+        },
+        {
+            "year": 30,
+            "age": 56,
+            "location_sector": "Africa",
+            "energy": 35,
+            "savings_bank_balance": 241.4,
+            "social_class": "Wealthy"
+        }
+    ],
+    "marriage_history": [
+        {
+            "year": 1,
+            "partner_id": 116,
+            "partner_class": "Poor",
+            "outcome": "Courtship Rejected (Brain Output: 0.38)"
+        },
+        {
+            "year": 2,
+            "partner_id": 116,
+            "partner_class": "Middle",
+            "outcome": "Courtship Rejected (Brain Output: 0.42)"
+        },
+        {
+            "year": 3,
+            "partner_id": 15,
+            "partner_class": "Middle",
+            "outcome": "Biological Incompatibility Fail"
+        },
+        {
+            "year": 5,
+            "partner_id": 24,
+            "partner_class": "Middle",
+            "outcome": "Biological Incompatibility Fail"
+        },
+        {
+            "year": 5,
+            "partner_id": 111,
+            "partner_class": "Middle",
+            "outcome": "Conception Successful"
+        }
+    ],
+    "brain_weights": [
+        -0.8100347757665081,
+        -0.31969922857522004,
+        2.3694603712452844,
+        0.059366545511012836,
+        -0.02716170710099719
+    ]
+}

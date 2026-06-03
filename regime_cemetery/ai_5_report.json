@@ -1,0 +1,105 @@
+{
+    "agent_id": 5,
+    "gender": "M",
+    "final_status": "Dead",
+    "marital_regime": "Separate",
+    "cause_of_death": "Starvation / Exhaustion",
+    "year_of_death": 10,
+    "final_savings": -16.51,
+    "history": [
+        {
+            "year": 1,
+            "age": 18,
+            "location_sector": "Europe",
+            "energy": 90,
+            "savings_bank_balance": 51.19,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 2,
+            "age": 19,
+            "location_sector": "Europe",
+            "energy": 80,
+            "savings_bank_balance": 44.77,
+            "social_class": "Middle",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 3,
+            "age": 20,
+            "location_sector": "Europe",
+            "energy": 70,
+            "savings_bank_balance": 12.15,
+            "social_class": "Poor",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 4,
+            "age": 21,
+            "location_sector": "Europe",
+            "energy": 60,
+            "savings_bank_balance": 3.33,
+            "social_class": "Poor",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 4,
+            "event": "\ud83d\udc94 Neural separation triggered. Left Agent 8."
+        },
+        {
+            "year": 5,
+            "age": 22,
+            "location_sector": "Africa",
+            "energy": 35,
+            "savings_bank_balance": 4.01,
+            "social_class": "Poor",
+            "marital_regime": "None"
+        },
+        {
+            "year": 6,
+            "age": 23,
+            "location_sector": "Africa",
+            "energy": 25,
+            "savings_bank_balance": 3.49,
+            "social_class": "Poor",
+            "marital_regime": "None"
+        },
+        {
+            "year": 7,
+            "age": 24,
+            "location_sector": "Africa",
+            "energy": 19,
+            "savings_bank_balance": -0.51,
+            "social_class": "Poor",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 8,
+            "age": 25,
+            "location_sector": "Africa",
+            "energy": 13,
+            "savings_bank_balance": -4.51,
+            "social_class": "Poor",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 9,
+            "age": 26,
+            "location_sector": "Africa",
+            "energy": 7,
+            "savings_bank_balance": -8.51,
+            "social_class": "Poor",
+            "marital_regime": "Separate"
+        },
+        {
+            "year": 10,
+            "age": 27,
+            "location_sector": "Africa",
+            "energy": 1,
+            "savings_bank_balance": -12.51,
+            "social_class": "Poor",
+            "marital_regime": "Separate"
+        }
+    ]
+}

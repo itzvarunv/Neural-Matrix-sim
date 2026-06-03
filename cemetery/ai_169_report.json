@@ -1,0 +1,40 @@
+{
+    "agent_id": 169,
+    "assigned_gender": "F",
+    "total_kids_count": 0,
+    "children_produced_ids": [],
+    "final_status": "Dead",
+    "cause_of_death": "Socio-Economic Disease Roll",
+    "year_of_death": 10,
+    "final_savings_balance": 120.84,
+    "final_energy_level": 90,
+    "travel_history_log": [
+        "Africa"
+    ],
+    "biometric_history_log": [
+        {
+            "year": 8,
+            "age": 1,
+            "location_sector": "Africa",
+            "energy": 90,
+            "savings_bank_balance": 105.84,
+            "social_class": "Middle"
+        },
+        {
+            "year": 9,
+            "age": 2,
+            "location_sector": "Africa",
+            "energy": 90,
+            "savings_bank_balance": 120.84,
+            "social_class": "Wealthy"
+        }
+    ],
+    "marriage_history": [],
+    "brain_weights": [
+        -0.7083615921593434,
+        -0.30348555336245203,
+        2.348984663757991,
+        0.025768687783926617,
+        -0.06300065801685531
+    ]
+}

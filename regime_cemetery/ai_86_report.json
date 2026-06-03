@@ -1,0 +1,506 @@
+{
+    "agent_id": 86,
+    "gender": "F",
+    "final_status": "Dead",
+    "marital_regime": "None",
+    "cause_of_death": "Starvation / Exhaustion",
+    "year_of_death": 55,
+    "final_savings": -18.72,
+    "history": [
+        {
+            "year": 1,
+            "age": 18,
+            "location_sector": "Africa",
+            "energy": 90,
+            "savings_bank_balance": 114.4,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 2,
+            "age": 19,
+            "location_sector": "Africa",
+            "energy": 80,
+            "savings_bank_balance": 120.48,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 3,
+            "age": 20,
+            "location_sector": "Africa",
+            "energy": 70,
+            "savings_bank_balance": 125.36,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 4,
+            "age": 21,
+            "location_sector": "Africa",
+            "energy": 60,
+            "savings_bank_balance": 129.04,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 5,
+            "age": 22,
+            "location_sector": "Africa",
+            "energy": 50,
+            "savings_bank_balance": 131.52,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 6,
+            "age": 23,
+            "location_sector": "Africa",
+            "energy": 75,
+            "savings_bank_balance": 120.8,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 7,
+            "age": 24,
+            "location_sector": "Africa",
+            "energy": 65,
+            "savings_bank_balance": 125.08,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 8,
+            "age": 25,
+            "location_sector": "Africa",
+            "energy": 55,
+            "savings_bank_balance": 128.16,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 9,
+            "age": 26,
+            "location_sector": "Africa",
+            "energy": 45,
+            "savings_bank_balance": 130.04,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 10,
+            "age": 27,
+            "location_sector": "Africa",
+            "energy": 70,
+            "savings_bank_balance": 118.72,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 11,
+            "age": 28,
+            "location_sector": "Africa",
+            "energy": 60,
+            "savings_bank_balance": 122.4,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 12,
+            "age": 29,
+            "location_sector": "Africa",
+            "energy": 50,
+            "savings_bank_balance": 124.88,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 13,
+            "age": 30,
+            "location_sector": "Africa",
+            "energy": 75,
+            "savings_bank_balance": 114.16,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 14,
+            "age": 31,
+            "location_sector": "Africa",
+            "energy": 65,
+            "savings_bank_balance": 118.44,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 15,
+            "age": 32,
+            "location_sector": "Africa",
+            "energy": 55,
+            "savings_bank_balance": 121.52,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 16,
+            "age": 33,
+            "location_sector": "Africa",
+            "energy": 45,
+            "savings_bank_balance": 123.4,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 17,
+            "age": 34,
+            "location_sector": "Africa",
+            "energy": 70,
+            "savings_bank_balance": 112.08,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 18,
+            "age": 35,
+            "location_sector": "Africa",
+            "energy": 60,
+            "savings_bank_balance": 115.76,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 19,
+            "age": 36,
+            "location_sector": "Africa",
+            "energy": 50,
+            "savings_bank_balance": 118.24,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 20,
+            "age": 37,
+            "location_sector": "Africa",
+            "energy": 75,
+            "savings_bank_balance": 107.52,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 21,
+            "age": 38,
+            "location_sector": "Africa",
+            "energy": 65,
+            "savings_bank_balance": 111.8,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 22,
+            "age": 39,
+            "location_sector": "Africa",
+            "energy": 55,
+            "savings_bank_balance": 114.88,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 23,
+            "age": 40,
+            "location_sector": "Africa",
+            "energy": 45,
+            "savings_bank_balance": 116.76,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 24,
+            "age": 41,
+            "location_sector": "Africa",
+            "energy": 70,
+            "savings_bank_balance": 105.44,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 25,
+            "age": 42,
+            "location_sector": "Africa",
+            "energy": 60,
+            "savings_bank_balance": 109.12,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 26,
+            "age": 43,
+            "location_sector": "Africa",
+            "energy": 50,
+            "savings_bank_balance": 111.6,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 27,
+            "age": 44,
+            "location_sector": "Africa",
+            "energy": 75,
+            "savings_bank_balance": 100.88,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 28,
+            "age": 45,
+            "location_sector": "Africa",
+            "energy": 65,
+            "savings_bank_balance": 105.16,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 29,
+            "age": 46,
+            "location_sector": "Africa",
+            "energy": 55,
+            "savings_bank_balance": 108.24,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 30,
+            "age": 47,
+            "location_sector": "Africa",
+            "energy": 45,
+            "savings_bank_balance": 110.12,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 31,
+            "age": 48,
+            "location_sector": "Africa",
+            "energy": 70,
+            "savings_bank_balance": 98.8,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 32,
+            "age": 49,
+            "location_sector": "Africa",
+            "energy": 60,
+            "savings_bank_balance": 102.48,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 33,
+            "age": 50,
+            "location_sector": "Africa",
+            "energy": 50,
+            "savings_bank_balance": 104.96,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 34,
+            "age": 51,
+            "location_sector": "Africa",
+            "energy": 75,
+            "savings_bank_balance": 94.24,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 35,
+            "age": 52,
+            "location_sector": "Africa",
+            "energy": 65,
+            "savings_bank_balance": 98.52,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 36,
+            "age": 53,
+            "location_sector": "Africa",
+            "energy": 55,
+            "savings_bank_balance": 101.6,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 37,
+            "age": 54,
+            "location_sector": "Africa",
+            "energy": 45,
+            "savings_bank_balance": 103.48,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 38,
+            "age": 55,
+            "location_sector": "Africa",
+            "energy": 70,
+            "savings_bank_balance": 92.16,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 39,
+            "age": 56,
+            "location_sector": "Africa",
+            "energy": 60,
+            "savings_bank_balance": 95.84,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 40,
+            "age": 57,
+            "location_sector": "Africa",
+            "energy": 50,
+            "savings_bank_balance": 98.32,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 41,
+            "age": 58,
+            "location_sector": "Africa",
+            "energy": 75,
+            "savings_bank_balance": 87.6,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 42,
+            "age": 59,
+            "location_sector": "Africa",
+            "energy": 65,
+            "savings_bank_balance": 91.88,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 43,
+            "age": 60,
+            "location_sector": "Africa",
+            "energy": 55,
+            "savings_bank_balance": 94.96,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 44,
+            "age": 61,
+            "location_sector": "Africa",
+            "energy": 45,
+            "savings_bank_balance": 96.84,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 45,
+            "age": 62,
+            "location_sector": "Africa",
+            "energy": 70,
+            "savings_bank_balance": 85.52,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 46,
+            "age": 63,
+            "location_sector": "Africa",
+            "energy": 60,
+            "savings_bank_balance": 89.2,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 47,
+            "age": 64,
+            "location_sector": "Africa",
+            "energy": 50,
+            "savings_bank_balance": 91.68,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 48,
+            "age": 65,
+            "location_sector": "Africa",
+            "energy": 75,
+            "savings_bank_balance": 80.96,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 49,
+            "age": 66,
+            "location_sector": "Africa",
+            "energy": 65,
+            "savings_bank_balance": 60.24,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 50,
+            "age": 67,
+            "location_sector": "Africa",
+            "energy": 55,
+            "savings_bank_balance": 63.32,
+            "social_class": "Middle",
+            "marital_regime": "None"
+        },
+        {
+            "year": 51,
+            "age": 68,
+            "location_sector": "Asia",
+            "energy": 30,
+            "savings_bank_balance": 3.4,
+            "social_class": "Poor",
+            "marital_regime": "None"
+        },
+        {
+            "year": 52,
+            "age": 69,
+            "location_sector": "Asia",
+            "energy": 20,
+            "savings_bank_balance": 2.28,
+            "social_class": "Poor",
+            "marital_regime": "None"
+        },
+        {
+            "year": 53,
+            "age": 70,
+            "location_sector": "Asia",
+            "energy": 14,
+            "savings_bank_balance": -6.72,
+            "social_class": "Poor",
+            "marital_regime": "None"
+        },
+        {
+            "year": 54,
+            "age": 71,
+            "location_sector": "Asia",
+            "energy": 8,
+            "savings_bank_balance": -10.72,
+            "social_class": "Poor",
+            "marital_regime": "None"
+        },
+        {
+            "year": 55,
+            "age": 72,
+            "location_sector": "Asia",
+            "energy": 2,
+            "savings_bank_balance": -14.72,
+            "social_class": "Poor",
+            "marital_regime": "None"
+        }
+    ]
+}
