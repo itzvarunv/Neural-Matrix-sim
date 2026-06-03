@@ -1,4 +1,4 @@
-# Neural-Matrix-sim 🧠
+# Neural-Matrix-sim 
 
 A step-by-step evolution of agent-based simulation — from bare demographic modelling to full neural-network-driven NPCs. Each file in this repo is a distinct generation of the engine, building progressively more complex behaviour on top of the last.
 
